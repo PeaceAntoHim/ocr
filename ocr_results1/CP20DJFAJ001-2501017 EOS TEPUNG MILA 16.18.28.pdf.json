@@ -1,0 +1,206 @@
+{
+    "m_discountschema_id": 0,
+    "token": "76af514b-a280-47b8-b5c1-95d8229e9408",
+    "ad_org_id": 0,
+    "c_doctype_id": 1000134,
+    "name": "FLOUR",
+    "description": "MILA",
+    "discounttype": "31. DISCOUNT PROMO - 31. DISCOUNT PROMO",
+    "vendor_id": 20,
+    "requirementtype": "MS",
+    "flatdiscounttype": "P",
+    "cumulativelevel": "L",
+    "validfrom": "",
+    "validto": "",
+    "selectiontype": "ESC",
+    "budgettype": "NB",
+    "organizationaleffectiveness": "ISO",
+    "isbirthdaydiscount": "N",
+    "isincludingsubordinate": "N",
+    "qtyallocated": 0,
+    "issotrx": "Y",
+    "ispickup": "N",
+    "fl_isallowmultiplediscount": "N",
+    "isactive": "Y",
+    "list_org": [
+        {
+            "m_discountschema_id": 0,
+            "uns_discount_org_id": 0,
+            "seqno": 10,
+            "ad_org_id": 1000006,
+            "ad_orgtrx_id": 1000006,
+            "isactive": "Y"
+        }
+    ],
+    "list_customer": [
+        {
+            "m_discountschema_id": 0,
+            "uns_discount_customer_id": 0,
+            "m_discountschemabreak_id": 0,
+            "ad_org_id": 0,
+            "c_bpartner_id": 1012328
+        }
+    ],
+    "tables": [
+        {
+            "product": "DISCOUNT PROMOTION",
+            "UOM": "",
+            "price_list": "",
+            "DISC % REG": "",
+            "DISC % IOM": "",
+            "RBP DIST": "",
+            "Additional Disc % D 1": null,
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "SKU",
+            "UOM": "UOM",
+            "price_list": "PRICE LIST\nSATP",
+            "DISC % REG": "DISC %",
+            "DISC % IOM": "",
+            "RBP DIST": "",
+            "Additional Disc % D 1": "RBP DIST",
+            "CUT PRICE OTB": "STRATA"
+        },
+        {
+            "product": "",
+            "UOM": "",
+            "price_list": "",
+            "DISC % REG": "REG",
+            "DISC % IOM": "IOM",
+            "RBP DIST": "OTH",
+            "Additional Disc % D 1": null,
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "MILA FLOUR BAG\n@1KG",
+            "UOM": "CTN10/BAG",
+            "price_list": "9.200,00",
+            "DISC % REG": "-",
+            "DISC % IOM": "-",
+            "RBP DIST": "-",
+            "Additional Disc % D 1": "9.200,00",
+            "CUT PRICE OTB": "✔"
+        },
+        {
+            "product": "STRATA DISCOUNT TABLE",
+            "UOM": "",
+            "price_list": "",
+            "DISC % REG": "",
+            "DISC % IOM": "",
+            "RBP DIST": "",
+            "Additional Disc % D 1": null,
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "SKU",
+            "UOM": "UOM",
+            "price_list": "MIN QTY / CTN",
+            "DISC % REG": "DISC %",
+            "DISC % IOM": "RBP STORE OFF INV",
+            "RBP DIST": "CUT PRICE",
+            "Additional Disc % D 1": null,
+            "CUT PRICE OTB": "SHARE\nDIST %"
+        },
+        {
+            "product": "",
+            "UOM": "",
+            "price_list": "",
+            "DISC % REG": "",
+            "DISC % IOM": "",
+            "RBP DIST": "OTB",
+            "Additional Disc % D 1": "PF",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "MILA FLOUR BAG\n@1KG",
+            "UOM": "CTN10/BAG",
+            "price_list": "'1/0",
+            "DISC % REG": "4,05",
+            "DISC % IOM": "8.827,40",
+            "RBP DIST": "0,00",
+            "Additional Disc % D 1": "-",
+            "CUT PRICE OTB": "1,00"
+        },
+        {
+            "product": "",
+            "UOM": "",
+            "price_list": "'6/0",
+            "DISC % REG": "5,04",
+            "DISC % IOM": "8.736,32",
+            "RBP DIST": "0,00",
+            "Additional Disc % D 1": null,
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "",
+            "UOM": "",
+            "price_list": "'11/0",
+            "DISC % REG": "6,03",
+            "DISC % IOM": "8.645,24",
+            "RBP DIST": "0,00",
+            "Additional Disc % D 1": null,
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "SKU",
+            "UOM": "UOM",
+            "price_list": "RBP DIST",
+            "DISC % REG": "PRODUCT PROMOTION",
+            "DISC % IOM": "",
+            "RBP DIST": "",
+            "Additional Disc % D 1": null,
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "",
+            "UOM": "",
+            "price_list": "",
+            "DISC % REG": "MIX\nITEM",
+            "DISC % IOM": "STRATA",
+            "RBP DIST": "SKU BONUS",
+            "Additional Disc % D 1": "DESCRIPTION",
+            "CUT PRICE OTB": "Price\n(CBP/RBP/\nDBP/Cost)"
+        },
+        {
+            "product": "MILA FLOUR BAG\n@1KG",
+            "UOM": "CTN10/BAG",
+            "price_list": "9.200,00",
+            "DISC % REG": "",
+            "DISC % IOM": "",
+            "RBP DIST": "",
+            "Additional Disc % D 1": "",
+            "CUT PRICE OTB": "0,00"
+        },
+        {
+            "product": "SKU",
+            "UOM": "SALES COMITMENT",
+            "price_list": "",
+            "DISC % REG": "TOTAL DISCOUNT",
+            "DISC % IOM": "TOTAL PRODUCT PROMO",
+            "RBP DIST": "TOTAL OTB",
+            "Additional Disc % D 1": "TOTAL PF",
+            "CUT PRICE OTB": "TOTAL EST BUDGET\nPROMO"
+        },
+        {
+            "product": "",
+            "UOM": "QTY IN CTN",
+            "price_list": "VALUE",
+            "DISC % REG": "",
+            "DISC % IOM": "",
+            "RBP DIST": "",
+            "Additional Disc % D 1": null,
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "MILA FLOUR BAG\n@1KG",
+            "UOM": "100/0",
+            "price_list": "8.645.240,00",
+            "DISC % REG": "555.000,00",
+            "DISC % IOM": "0,00",
+            "RBP DIST": "-",
+            "Additional Disc % D 1": "-",
+            "CUT PRICE OTB": "555.000,00"
+        }
+    ]
+}

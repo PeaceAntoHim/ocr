@@ -1,0 +1,228 @@
+{
+    "metadata": {
+        "NOMOR": "CP20DJFAJ003-2500952",
+        "PRODUCT CATEGORY": "RICE REF DOC: APP-KC1102-20DJFAJ003-25-00001364",
+        "BRAND": "FORTUNE REF CP NO : -",
+        "CHANNEL": "GT PERIODE CP: 07/03/2025 - 15/03/2025",
+        "REGION": "KC0011 - BMW HO JAKARTA GROUP OUTLET :",
+        "SUB REGION": "KC001102 - LAMPUNG",
+        "DISTRIBUTOR": "20DJFAJ003 - CV. Fajar Lestari Kotabumi",
+        "PROMO TYPE": "31. DISCOUNT PROMO - 31. DISCOUNT PROMO COMPENSATION :",
+        "SUB PROMO TYPE": "31D - DEAL KHUSUS",
+        "MECHANISM": "'1. Deal Khusus"
+    },
+    "tables": [
+        [
+            {
+                "0": "REF DOC: APP-KC1102-20DJFAJ003-25-00001364"
+            },
+            {
+                "0": "REF CP NO : -"
+            },
+            {
+                "0": "PERIODE CP: 07/03/2025 - 15/03/2025"
+            }
+        ],
+        [
+            {
+                "0": "DISCOUNT PROMOTION",
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": null,
+                "14": null,
+                "15": null,
+                "16": null,
+                "17": null
+            },
+            {
+                "0": "SKU",
+                "1": "UOM",
+                "2": "PRICE LIST\nSATP",
+                "3": "DISC %",
+                "4": null,
+                "5": null,
+                "6": "RBP DIST",
+                "7": "STRATA",
+                "8": "Additional Disc %",
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": "CUT PRICE",
+                "14": null,
+                "15": "RBP STORE",
+                "16": "SHARE\nDIST %",
+                "17": "RBP NET INC PPN"
+            },
+            {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": "REG",
+                "4": "IOM",
+                "5": "OTH",
+                "6": null,
+                "7": null,
+                "8": "D 1",
+                "9": "D 2",
+                "10": "D 3",
+                "11": "D 4",
+                "12": "D 5",
+                "13": "OTB",
+                "14": "PF",
+                "15": null,
+                "16": null,
+                "17": null
+            },
+            {
+                "0": "FORTUNE PREMIUM\nRICE @5KG",
+                "1": "CTN1/BAG",
+                "2": "73.900,00",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "73.900,00",
+                "7": "✔",
+                "8": "4,80",
+                "9": "-",
+                "10": "-",
+                "11": "-",
+                "12": "-",
+                "13": "0,00",
+                "14": "0,00",
+                "15": "70.352,80",
+                "16": "0,50",
+                "17": "70.001,04"
+            }
+        ],
+        [
+            {
+                "0": "STRATA DISCOUNT TABLE",
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+            },
+            {
+                "0": "SKU",
+                "1": "UOM",
+                "2": "MIN QTY / CTN",
+                "3": "DISC %",
+                "4": "RBP STORE OFF INV",
+                "5": "CUT PRICE",
+                "6": null,
+                "7": "SHARE\nDIST %",
+                "8": "RBP NET INC PPN"
+            },
+            {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": "OTB",
+                "6": "PF",
+                "7": null,
+                "8": null
+            },
+            {
+                "0": "FORTUNE PREMIUM\nRICE @5KG",
+                "1": "CTN1/BAG",
+                "2": "'15/0",
+                "3": "4,80",
+                "4": "70.352,80",
+                "5": "0,00",
+                "6": "-",
+                "7": "0,50",
+                "8": "70.001,04"
+            }
+        ],
+        [
+            {
+                "0": "SKU",
+                "1": "UOM",
+                "2": "RBP DIST",
+                "3": "PRODUCT PROMOTION",
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null
+            },
+            {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": "MIX\nITEM",
+                "4": "STRATA",
+                "5": "SKU BONUS",
+                "6": "DESCRIPTION",
+                "7": "Price\n(CBP/RBP/\nDBP/Cost)",
+                "8": "UOM",
+                "9": "QTY IN\nPCS",
+                "10": "TOTAL BUDGET"
+            },
+            {
+                "0": "FORTUNE PREMIUM\nRICE @5KG",
+                "1": "CTN1/BAG",
+                "2": "73.900,00",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": "0,00",
+                "8": "",
+                "9": "0",
+                "10": "0,00"
+            }
+        ],
+        [
+            {
+                "0": "SKU",
+                "1": "SALES COMITMENT",
+                "2": null,
+                "3": "TOTAL DISCOUNT",
+                "4": "TOTAL PRODUCT PROMO",
+                "5": "TOTAL OTB",
+                "6": "TOTAL PF",
+                "7": "TOTAL EST BUDGET\nPROMO"
+            },
+            {
+                "0": null,
+                "1": "QTY IN CTN",
+                "2": "VALUE",
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+            },
+            {
+                "0": "FORTUNE PREMIUM\nRICE @5KG",
+                "1": "1000/0",
+                "2": "70.352.800,00",
+                "3": "3.548.000,00",
+                "4": "0,00",
+                "5": "-",
+                "6": "-",
+                "7": "3.548.000,00"
+            }
+        ]
+    ]
+}

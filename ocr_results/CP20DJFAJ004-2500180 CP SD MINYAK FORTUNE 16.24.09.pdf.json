@@ -1,0 +1,223 @@
+{
+    "metadata": {
+        "NOMOR": "CP20DJFAJ004-2500180",
+        "PRODUCT CATEGORY": "COOKING OIL",
+        "BRAND": "FORTUNE",
+        "CHANNEL": "GT",
+        "REGION": "KC0011 - BMW HO JAKARTA",
+        "SUB REGION": "KC001102 - LAMPUNG",
+        "DISTRIBUTOR": "20DJFAJ004 - CV. Fajar Lestari Pekalongan",
+        "PROMO TYPE": "31. DISCOUNT PROMO - 31. DISCOUNT PROMO",
+        "SUB PROMO TYPE": "31C - STRATA DISCOUNT",
+        "MECHANISM": "'1. Strata",
+        "REF DOC": "APP-KC1102-20DJFAJ004-25-00000250",
+        "REF CP NO": "-",
+        "PERIODE CP": "07/03/2025 - 15/03/2025",
+        "GROUP OUTLET": "SUB REGION : KC001102 - LAMPUNG",
+        "COMPENSATION": "SUB PROMO TYPE : 31C - STRATA DISCOUNT"
+    },
+    "tables": [
+        [
+            {
+                "product": "DISCOUNT PROMOTION",
+                "UOM": "",
+                "price_list": "",
+                "DISC % REG": "",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": ""
+            },
+            {
+                "product": "SKU",
+                "UOM": "UOM",
+                "price_list": "PRICE LIST\nSATP",
+                "DISC % REG": "DISC %",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "RBP DIST",
+                "CUT PRICE OTB": "STRATA"
+            },
+            {
+                "product": "",
+                "UOM": "",
+                "price_list": "",
+                "DISC % REG": "REG",
+                "DISC % IOM": "IOM",
+                "RBP DIST": "OTH",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": ""
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPLP @1LT",
+                "UOM": "BAG",
+                "price_list": "17.200,00",
+                "DISC % REG": "-",
+                "DISC % IOM": "-",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "17.200,00",
+                "CUT PRICE OTB": "✔"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPLP @0.8LT",
+                "UOM": "BAG",
+                "price_list": "14.000,00",
+                "DISC % REG": "-",
+                "DISC % IOM": "-",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "14.000,00",
+                "CUT PRICE OTB": "✔"
+            },
+            {
+                "product": "STRATA DISCOUNT TABLE",
+                "UOM": "",
+                "price_list": "",
+                "DISC % REG": "",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": ""
+            },
+            {
+                "product": "SKU",
+                "UOM": "UOM",
+                "price_list": "MIN QTY / CTN",
+                "DISC % REG": "DISC %",
+                "DISC % IOM": "RBP STORE OFF INV",
+                "RBP DIST": "CUT PRICE",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": "SHARE\nDIST %"
+            },
+            {
+                "product": "",
+                "UOM": "",
+                "price_list": "",
+                "DISC % REG": "",
+                "DISC % IOM": "",
+                "RBP DIST": "OTB",
+                "Additional Disc % D 1": "PF",
+                "CUT PRICE OTB": ""
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPLP @1LT",
+                "UOM": "BAG",
+                "price_list": "'24",
+                "DISC % REG": "0,06",
+                "DISC % IOM": "17.189,68",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "3,30"
+            },
+            {
+                "product": "",
+                "UOM": "",
+                "price_list": "'72",
+                "DISC % REG": "0,34",
+                "DISC % IOM": "17.141,52",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": ""
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPLP @0.8LT",
+                "UOM": "BAG",
+                "price_list": "'24",
+                "DISC % REG": "0,03",
+                "DISC % IOM": "13.995,80",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "3,12"
+            },
+            {
+                "product": "",
+                "UOM": "",
+                "price_list": "'72",
+                "DISC % REG": "0,37",
+                "DISC % IOM": "13.948,20",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": ""
+            },
+            {
+                "product": "SKU",
+                "UOM": "UOM",
+                "price_list": "RBP DIST",
+                "DISC % REG": "PRODUCT PROMOTION",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": ""
+            },
+            {
+                "product": "",
+                "UOM": "",
+                "price_list": "",
+                "DISC % REG": "MIX\nITEM",
+                "DISC % IOM": "STRATA",
+                "RBP DIST": "SKU BONUS",
+                "Additional Disc % D 1": "DESCRIPTION",
+                "CUT PRICE OTB": "Price\n(CBP/RBP/\nDBP/Cost)"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPLP @1LT",
+                "UOM": "BAG",
+                "price_list": "17.200,00",
+                "DISC % REG": "",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": "0,00"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPLP @0.8LT",
+                "UOM": "BAG",
+                "price_list": "14.000,00",
+                "DISC % REG": "",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": "0,00"
+            },
+            {
+                "product": "SKU",
+                "UOM": "SALES COMITMENT",
+                "price_list": "",
+                "DISC % REG": "TOTAL DISCOUNT",
+                "DISC % IOM": "TOTAL PRODUCT PROMO",
+                "RBP DIST": "TOTAL OTB",
+                "Additional Disc % D 1": "TOTAL PF",
+                "CUT PRICE OTB": "TOTAL EST BUDGET\nPROMO"
+            },
+            {
+                "product": "",
+                "UOM": "QTY IN CTN",
+                "price_list": "VALUE",
+                "DISC % REG": "",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": ""
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPLP @1LT",
+                "UOM": "14.592",
+                "price_list": "250.129.059,84",
+                "DISC % REG": "860.928,00",
+                "DISC % IOM": "0,00",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "860.928,00"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPLP @0.8LT",
+                "UOM": "6.064",
+                "price_list": "84.581.884,80",
+                "DISC % REG": "315.328,00",
+                "DISC % IOM": "0,00",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "315.328,00"
+            }
+        ]
+    ]
+}

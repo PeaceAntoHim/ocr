@@ -1,0 +1,429 @@
+{
+    "metadata": {
+        "NOMOR": "CP20DJFAJ002-2500967-A04",
+        "PRODUCT CATEGORY": "COOKING OIL",
+        "BRAND": "FORTUNE",
+        "CHANNEL": "GT",
+        "REGION": "KC0011 - BMW HO JAKARTA",
+        "SUB REGION": "KC001102 - LAMPUNG DISTRIBUTOR : 20DJFAJ002 - CV. Fajar Lestari Tulang Bawang PROMO TYPE : 31. DISCOUNT PROMO - 31. DISCOUNT PROMO COMPENSATION : SUB PROMO TYPE : 31C - STRATA DISCOUNT COST CATEGORY ☐ INCLUDE TRADING TERM ☐ EXCLUDE TRADING TERM ☐ OTB ☐ PF TIPE CP ☑ CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL ☑ DISTRIBUTOR CLAIM BASED ☐ SELLING - IN ☑ SELLING - OUT MECHANISM: '1. Strata '2. Dist klaim berdasarkan ketentuan '3. Auto PD DISCOUNT PROMOTION DISC % Additional Disc % CUT PRICE PRICE LIST SHARE SKU UOM RBP DIST STRATA RBP STORE RBP NET INC PPN SATP DIST % REG IOM OTH D 1 D 2 D 3 D 4 D 5 OTB PF FORTUNE PALM OIL BAG 17.200,00 - - - 17.200,00 ✔ 3,38 - - - - 0,00 0,00 16.618,64 0,25 18.400,57 PLP @1LT FORTUNE PALM OIL CTN6/PCH 36.200,00 - - - 36.200,00 ✔ 2,94 - - - - 0,00 0,00 35.135,72 0,00 39.000,65 PCH @2LT FORTUNE PALM OIL CTN12/PCH 18.430,00 - - - 18.430,00 ✔ 3,70 - - - - 0,00 0,00 17.748,09 0,00 19.700,38 PCH @1LT FORTUNE PALM OIL CTN6/PCH 32.800,00 - - - 32.800,00 ✔ 3,04 - - - - 0,00 0,00 31.802,88 0,00 35.301,20 PCH @1.8LT FORTUNE PALM OIL BAG 14.000,00 - - - 14.000,00 ✔ 3,23 - - - - 0,00 0,00 13.547,80 0,25 15.000,46 PLP @0.8LT FORTUNE PALM OIL CTN12/PCH 15.200,00 - - - 15.200,00 ✔ 4,58 - - - - 0,00 0,00 14.503,84 0,00 16.099,26 PCH @0.8LT STRATA DISCOUNT TABLE CUT PRICE SHARE SKU UOM MIN QTY / CTN DISC % RBP STORE OFF INV RBP NET INC PPN DIST % OTB PF '24 2,86 16.708,08 0,00 18.499,60 FORTUNE PALM OIL BAG - 0,25 PLP @1LT '72 3,38 16.618,64 0,00 18.400,57 '1/0 2,44 35.316,72 0,00 39.201,56 FORTUNE PALM OIL CTN6/PCH - - PCH @2LT '3/0 2,94 35.135,72 0,00 39.000,65 '1/0 3,21 17.838,40 0,00 19.800,62 FORTUNE PALM OIL CTN12/PCH - - PCH @1LT '3/0 3,70 17.748,09 0,00 19.700,38 '1/0 2,49 31.983,28 0,00 35.501,44 FORTUNE PALM OIL CTN6/PCH - - PCH @1.8LT '3/0 3,04 31.802,88 0,00 35.301,20 '24 2,59 13.637,40 0,00 15.099,67 FORTUNE PALM OIL BAG - 0,25 PLP @0.8LT '72 3,23 13.547,80 0,00 15.000,46 '1/0 3,98 14.595,04 0,00 16.200,49 FORTUNE PALM OIL CTN12/PCH - - PCH @0.8LT '3/0 4,58 14.503,84 0,00 16.099,26",
+        "DISTRIBUTOR": "20DJFAJ002 - CV. Fajar Lestari Tulang Bawang PROMO TYPE : 31. DISCOUNT PROMO - 31. DISCOUNT PROMO COMPENSATION : SUB PROMO TYPE : 31C - STRATA DISCOUNT COST CATEGORY ☐ INCLUDE TRADING TERM ☐ EXCLUDE TRADING TERM ☐ OTB ☐ PF TIPE CP ☑ CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL ☑ DISTRIBUTOR CLAIM BASED ☐ SELLING - IN ☑ SELLING - OUT MECHANISM: '1. Strata '2. Dist klaim berdasarkan ketentuan '3. Auto PD DISCOUNT PROMOTION DISC % Additional Disc % CUT PRICE PRICE LIST SHARE SKU UOM RBP DIST STRATA RBP STORE RBP NET INC PPN SATP DIST % REG IOM OTH D 1 D 2 D 3 D 4 D 5 OTB PF FORTUNE PALM OIL BAG 17.200,00 - - - 17.200,00 ✔ 3,38 - - - - 0,00 0,00 16.618,64 0,25 18.400,57 PLP @1LT FORTUNE PALM OIL CTN6/PCH 36.200,00 - - - 36.200,00 ✔ 2,94 - - - - 0,00 0,00 35.135,72 0,00 39.000,65 PCH @2LT FORTUNE PALM OIL CTN12/PCH 18.430,00 - - - 18.430,00 ✔ 3,70 - - - - 0,00 0,00 17.748,09 0,00 19.700,38 PCH @1LT FORTUNE PALM OIL CTN6/PCH 32.800,00 - - - 32.800,00 ✔ 3,04 - - - - 0,00 0,00 31.802,88 0,00 35.301,20 PCH @1.8LT FORTUNE PALM OIL BAG 14.000,00 - - - 14.000,00 ✔ 3,23 - - - - 0,00 0,00 13.547,80 0,25 15.000,46 PLP @0.8LT FORTUNE PALM OIL CTN12/PCH 15.200,00 - - - 15.200,00 ✔ 4,58 - - - - 0,00 0,00 14.503,84 0,00 16.099,26 PCH @0.8LT STRATA DISCOUNT TABLE CUT PRICE SHARE SKU UOM MIN QTY / CTN DISC % RBP STORE OFF INV RBP NET INC PPN DIST % OTB PF '24 2,86 16.708,08 0,00 18.499,60 FORTUNE PALM OIL BAG - 0,25 PLP @1LT '72 3,38 16.618,64 0,00 18.400,57 '1/0 2,44 35.316,72 0,00 39.201,56 FORTUNE PALM OIL CTN6/PCH - - PCH @2LT '3/0 2,94 35.135,72 0,00 39.000,65 '1/0 3,21 17.838,40 0,00 19.800,62 FORTUNE PALM OIL CTN12/PCH - - PCH @1LT '3/0 3,70 17.748,09 0,00 19.700,38 '1/0 2,49 31.983,28 0,00 35.501,44 FORTUNE PALM OIL CTN6/PCH - - PCH @1.8LT '3/0 3,04 31.802,88 0,00 35.301,20 '24 2,59 13.637,40 0,00 15.099,67 FORTUNE PALM OIL BAG - 0,25 PLP @0.8LT '72 3,23 13.547,80 0,00 15.000,46 '1/0 3,98 14.595,04 0,00 16.200,49 FORTUNE PALM OIL CTN12/PCH - - PCH @0.8LT '3/0 4,58 14.503,84 0,00 16.099,26",
+        "PROMO TYPE": "31. DISCOUNT PROMO - 31. DISCOUNT PROMO",
+        "SUB PROMO TYPE": "31C - STRATA DISCOUNT COST CATEGORY ☐ INCLUDE TRADING TERM ☐ EXCLUDE TRADING TERM ☐ OTB ☐ PF TIPE CP ☑ CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL ☑ DISTRIBUTOR CLAIM BASED ☐ SELLING - IN ☑ SELLING - OUT MECHANISM: '1. Strata '2. Dist klaim berdasarkan ketentuan '3. Auto PD DISCOUNT PROMOTION DISC % Additional Disc % CUT PRICE PRICE LIST SHARE SKU UOM RBP DIST STRATA RBP STORE RBP NET INC PPN SATP DIST % REG IOM OTH D 1 D 2 D 3 D 4 D 5 OTB PF FORTUNE PALM OIL BAG 17.200,00 - - - 17.200,00 ✔ 3,38 - - - - 0,00 0,00 16.618,64 0,25 18.400,57 PLP @1LT FORTUNE PALM OIL CTN6/PCH 36.200,00 - - - 36.200,00 ✔ 2,94 - - - - 0,00 0,00 35.135,72 0,00 39.000,65 PCH @2LT FORTUNE PALM OIL CTN12/PCH 18.430,00 - - - 18.430,00 ✔ 3,70 - - - - 0,00 0,00 17.748,09 0,00 19.700,38 PCH @1LT FORTUNE PALM OIL CTN6/PCH 32.800,00 - - - 32.800,00 ✔ 3,04 - - - - 0,00 0,00 31.802,88 0,00 35.301,20 PCH @1.8LT FORTUNE PALM OIL BAG 14.000,00 - - - 14.000,00 ✔ 3,23 - - - - 0,00 0,00 13.547,80 0,25 15.000,46 PLP @0.8LT FORTUNE PALM OIL CTN12/PCH 15.200,00 - - - 15.200,00 ✔ 4,58 - - - - 0,00 0,00 14.503,84 0,00 16.099,26 PCH @0.8LT STRATA DISCOUNT TABLE CUT PRICE SHARE SKU UOM MIN QTY / CTN DISC % RBP STORE OFF INV RBP NET INC PPN DIST % OTB PF '24 2,86 16.708,08 0,00 18.499,60 FORTUNE PALM OIL BAG - 0,25 PLP @1LT '72 3,38 16.618,64 0,00 18.400,57 '1/0 2,44 35.316,72 0,00 39.201,56 FORTUNE PALM OIL CTN6/PCH - - PCH @2LT '3/0 2,94 35.135,72 0,00 39.000,65 '1/0 3,21 17.838,40 0,00 19.800,62 FORTUNE PALM OIL CTN12/PCH - - PCH @1LT '3/0 3,70 17.748,09 0,00 19.700,38 '1/0 2,49 31.983,28 0,00 35.501,44 FORTUNE PALM OIL CTN6/PCH - - PCH @1.8LT '3/0 3,04 31.802,88 0,00 35.301,20 '24 2,59 13.637,40 0,00 15.099,67 FORTUNE PALM OIL BAG - 0,25 PLP @0.8LT '72 3,23 13.547,80 0,00 15.000,46 '1/0 3,98 14.595,04 0,00 16.200,49 FORTUNE PALM OIL CTN12/PCH - - PCH @0.8LT '3/0 4,58 14.503,84 0,00 16.099,26",
+        "MECHANISM": "'1. Strata '2. Dist klaim berdasarkan ketentuan '3. Auto PD DISCOUNT PROMOTION DISC % Additional Disc % CUT PRICE PRICE LIST SHARE SKU UOM RBP DIST STRATA RBP STORE RBP NET INC PPN SATP DIST % REG IOM OTH D 1 D 2 D 3 D 4 D 5 OTB PF FORTUNE PALM OIL BAG 17.200,00 - - - 17.200,00 ✔ 3,38 - - - - 0,00 0,00 16.618,64 0,25 18.400,57 PLP @1LT FORTUNE PALM OIL CTN6/PCH 36.200,00 - - - 36.200,00 ✔ 2,94 - - - - 0,00 0,00 35.135,72 0,00 39.000,65 PCH @2LT FORTUNE PALM OIL CTN12/PCH 18.430,00 - - - 18.430,00 ✔ 3,70 - - - - 0,00 0,00 17.748,09 0,00 19.700,38 PCH @1LT FORTUNE PALM OIL CTN6/PCH 32.800,00 - - - 32.800,00 ✔ 3,04 - - - - 0,00 0,00 31.802,88 0,00 35.301,20 PCH @1.8LT FORTUNE PALM OIL BAG 14.000,00 - - - 14.000,00 ✔ 3,23 - - - - 0,00 0,00 13.547,80 0,25 15.000,46 PLP @0.8LT FORTUNE PALM OIL CTN12/PCH 15.200,00 - - - 15.200,00 ✔ 4,58 - - - - 0,00 0,00 14.503,84 0,00 16.099,26 PCH @0.8LT STRATA DISCOUNT TABLE CUT PRICE SHARE SKU UOM MIN QTY / CTN DISC % RBP STORE OFF INV RBP NET INC PPN DIST % OTB PF '24 2,86 16.708,08 0,00 18.499,60 FORTUNE PALM OIL BAG - 0,25 PLP @1LT '72 3,38 16.618,64 0,00 18.400,57 '1/0 2,44 35.316,72 0,00 39.201,56 FORTUNE PALM OIL CTN6/PCH - - PCH @2LT '3/0 2,94 35.135,72 0,00 39.000,65 '1/0 3,21 17.838,40 0,00 19.800,62 FORTUNE PALM OIL CTN12/PCH - - PCH @1LT '3/0 3,70 17.748,09 0,00 19.700,38 '1/0 2,49 31.983,28 0,00 35.501,44 FORTUNE PALM OIL CTN6/PCH - - PCH @1.8LT '3/0 3,04 31.802,88 0,00 35.301,20 '24 2,59 13.637,40 0,00 15.099,67 FORTUNE PALM OIL BAG - 0,25 PLP @0.8LT '72 3,23 13.547,80 0,00 15.000,46 '1/0 3,98 14.595,04 0,00 16.200,49 FORTUNE PALM OIL CTN12/PCH - - PCH @0.8LT '3/0 4,58 14.503,84 0,00 16.099,26",
+        "REF DOC": "APP-KC1102-20DJFAJ002-25-00001367 BRAND : FORTUNE REF CP NO : Additional-CP20DJFAJ002-2500967 CHANNEL : GT PERIODE CP: 06/03/2025 - 15/03/2025 REGION : KC0011 - BMW HO JAKARTA GROUP OUTLET : SUB REGION : KC001102 - LAMPUNG DISTRIBUTOR : 20DJFAJ002 - CV. Fajar Lestari Tulang Bawang PROMO TYPE : 31. DISCOUNT PROMO - 31. DISCOUNT PROMO COMPENSATION : SUB PROMO TYPE : 31C - STRATA DISCOUNT COST CATEGORY ☐ INCLUDE TRADING TERM ☐ EXCLUDE TRADING TERM ☐ OTB ☐ PF TIPE CP ☑ CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL ☑ DISTRIBUTOR CLAIM BASED ☐ SELLING - IN ☑ SELLING - OUT MECHANISM: '1. Strata '2. Dist klaim berdasarkan ketentuan '3. Auto PD DISCOUNT PROMOTION DISC % Additional Disc % CUT PRICE PRICE LIST SHARE SKU UOM RBP DIST STRATA RBP STORE RBP NET INC PPN SATP DIST % REG IOM OTH D 1 D 2 D 3 D 4 D 5 OTB PF FORTUNE PALM OIL BAG 17.200,00 - - - 17.200,00 ✔ 3,38 - - - - 0,00 0,00 16.618,64 0,25 18.400,57 PLP @1LT FORTUNE PALM OIL CTN6/PCH 36.200,00 - - - 36.200,00 ✔ 2,94 - - - - 0,00 0,00 35.135,72 0,00 39.000,65 PCH @2LT FORTUNE PALM OIL CTN12/PCH 18.430,00 - - - 18.430,00 ✔ 3,70 - - - - 0,00 0,00 17.748,09 0,00 19.700,38 PCH @1LT FORTUNE PALM OIL CTN6/PCH 32.800,00 - - - 32.800,00 ✔ 3,04 - - - - 0,00 0,00 31.802,88 0,00 35.301,20 PCH @1.8LT FORTUNE PALM OIL BAG 14.000,00 - - - 14.000,00 ✔ 3,23 - - - - 0,00 0,00 13.547,80 0,25 15.000,46 PLP @0.8LT FORTUNE PALM OIL CTN12/PCH 15.200,00 - - - 15.200,00 ✔ 4,58 - - - - 0,00 0,00 14.503,84 0,00 16.099,26 PCH @0.8LT STRATA DISCOUNT TABLE CUT PRICE SHARE SKU UOM MIN QTY / CTN DISC % RBP STORE OFF INV RBP NET INC PPN DIST % OTB PF '24 2,86 16.708,08 0,00 18.499,60 FORTUNE PALM OIL BAG - 0,25 PLP @1LT '72 3,38 16.618,64 0,00 18.400,57 '1/0 2,44 35.316,72 0,00 39.201,56 FORTUNE PALM OIL CTN6/PCH - - PCH @2LT '3/0 2,94 35.135,72 0,00 39.000,65 '1/0 3,21 17.838,40 0,00 19.800,62 FORTUNE PALM OIL CTN12/PCH - - PCH @1LT '3/0 3,70 17.748,09 0,00 19.700,38 '1/0 2,49 31.983,28 0,00 35.501,44 FORTUNE PALM OIL CTN6/PCH - - PCH @1.8LT '3/0 3,04 31.802,88 0,00 35.301,20 '24 2,59 13.637,40 0,00 15.099,67 FORTUNE PALM OIL BAG - 0,25 PLP @0.8LT '72 3,23 13.547,80 0,00 15.000,46 '1/0 3,98 14.595,04 0,00 16.200,49 FORTUNE PALM OIL CTN12/PCH - - PCH @0.8LT '3/0 4,58 14.503,84 0,00 16.099,26",
+        "REF CP NO": "Additional-CP20DJFAJ002-2500967 CHANNEL : GT PERIODE CP: 06/03/2025 - 15/03/2025 REGION : KC0011 - BMW HO JAKARTA GROUP OUTLET : SUB REGION : KC001102 - LAMPUNG DISTRIBUTOR : 20DJFAJ002 - CV. Fajar Lestari Tulang Bawang PROMO TYPE : 31. DISCOUNT PROMO - 31. DISCOUNT PROMO COMPENSATION : SUB PROMO TYPE : 31C - STRATA DISCOUNT COST CATEGORY ☐ INCLUDE TRADING TERM ☐ EXCLUDE TRADING TERM ☐ OTB ☐ PF TIPE CP ☑ CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL ☑ DISTRIBUTOR CLAIM BASED ☐ SELLING - IN ☑ SELLING - OUT MECHANISM: '1. Strata '2. Dist klaim berdasarkan ketentuan '3. Auto PD DISCOUNT PROMOTION DISC % Additional Disc % CUT PRICE PRICE LIST SHARE SKU UOM RBP DIST STRATA RBP STORE RBP NET INC PPN SATP DIST % REG IOM OTH D 1 D 2 D 3 D 4 D 5 OTB PF FORTUNE PALM OIL BAG 17.200,00 - - - 17.200,00 ✔ 3,38 - - - - 0,00 0,00 16.618,64 0,25 18.400,57 PLP @1LT FORTUNE PALM OIL CTN6/PCH 36.200,00 - - - 36.200,00 ✔ 2,94 - - - - 0,00 0,00 35.135,72 0,00 39.000,65 PCH @2LT FORTUNE PALM OIL CTN12/PCH 18.430,00 - - - 18.430,00 ✔ 3,70 - - - - 0,00 0,00 17.748,09 0,00 19.700,38 PCH @1LT FORTUNE PALM OIL CTN6/PCH 32.800,00 - - - 32.800,00 ✔ 3,04 - - - - 0,00 0,00 31.802,88 0,00 35.301,20 PCH @1.8LT FORTUNE PALM OIL BAG 14.000,00 - - - 14.000,00 ✔ 3,23 - - - - 0,00 0,00 13.547,80 0,25 15.000,46 PLP @0.8LT FORTUNE PALM OIL CTN12/PCH 15.200,00 - - - 15.200,00 ✔ 4,58 - - - - 0,00 0,00 14.503,84 0,00 16.099,26 PCH @0.8LT STRATA DISCOUNT TABLE CUT PRICE SHARE SKU UOM MIN QTY / CTN DISC % RBP STORE OFF INV RBP NET INC PPN DIST % OTB PF '24 2,86 16.708,08 0,00 18.499,60 FORTUNE PALM OIL BAG - 0,25 PLP @1LT '72 3,38 16.618,64 0,00 18.400,57 '1/0 2,44 35.316,72 0,00 39.201,56 FORTUNE PALM OIL CTN6/PCH - - PCH @2LT '3/0 2,94 35.135,72 0,00 39.000,65 '1/0 3,21 17.838,40 0,00 19.800,62 FORTUNE PALM OIL CTN12/PCH - - PCH @1LT '3/0 3,70 17.748,09 0,00 19.700,38 '1/0 2,49 31.983,28 0,00 35.501,44 FORTUNE PALM OIL CTN6/PCH - - PCH @1.8LT '3/0 3,04 31.802,88 0,00 35.301,20 '24 2,59 13.637,40 0,00 15.099,67 FORTUNE PALM OIL BAG - 0,25 PLP @0.8LT '72 3,23 13.547,80 0,00 15.000,46 '1/0 3,98 14.595,04 0,00 16.200,49 FORTUNE PALM OIL CTN12/PCH - - PCH @0.8LT '3/0 4,58 14.503,84 0,00 16.099,26",
+        "PERIODE CP": "06/03/2025 - 15/03/2025 REGION : KC0011 - BMW HO JAKARTA GROUP OUTLET : SUB REGION : KC001102 - LAMPUNG DISTRIBUTOR : 20DJFAJ002 - CV. Fajar Lestari Tulang Bawang PROMO TYPE : 31. DISCOUNT PROMO - 31. DISCOUNT PROMO COMPENSATION : SUB PROMO TYPE : 31C - STRATA DISCOUNT COST CATEGORY ☐ INCLUDE TRADING TERM ☐ EXCLUDE TRADING TERM ☐ OTB ☐ PF TIPE CP ☑ CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL ☑ DISTRIBUTOR CLAIM BASED ☐ SELLING - IN ☑ SELLING - OUT MECHANISM: '1. Strata '2. Dist klaim berdasarkan ketentuan '3. Auto PD DISCOUNT PROMOTION DISC % Additional Disc % CUT PRICE PRICE LIST SHARE SKU UOM RBP DIST STRATA RBP STORE RBP NET INC PPN SATP DIST % REG IOM OTH D 1 D 2 D 3 D 4 D 5 OTB PF FORTUNE PALM OIL BAG 17.200,00 - - - 17.200,00 ✔ 3,38 - - - - 0,00 0,00 16.618,64 0,25 18.400,57 PLP @1LT FORTUNE PALM OIL CTN6/PCH 36.200,00 - - - 36.200,00 ✔ 2,94 - - - - 0,00 0,00 35.135,72 0,00 39.000,65 PCH @2LT FORTUNE PALM OIL CTN12/PCH 18.430,00 - - - 18.430,00 ✔ 3,70 - - - - 0,00 0,00 17.748,09 0,00 19.700,38 PCH @1LT FORTUNE PALM OIL CTN6/PCH 32.800,00 - - - 32.800,00 ✔ 3,04 - - - - 0,00 0,00 31.802,88 0,00 35.301,20 PCH @1.8LT FORTUNE PALM OIL BAG 14.000,00 - - - 14.000,00 ✔ 3,23 - - - - 0,00 0,00 13.547,80 0,25 15.000,46 PLP @0.8LT FORTUNE PALM OIL CTN12/PCH 15.200,00 - - - 15.200,00 ✔ 4,58 - - - - 0,00 0,00 14.503,84 0,00 16.099,26 PCH @0.8LT STRATA DISCOUNT TABLE CUT PRICE SHARE SKU UOM MIN QTY / CTN DISC % RBP STORE OFF INV RBP NET INC PPN DIST % OTB PF '24 2,86 16.708,08 0,00 18.499,60 FORTUNE PALM OIL BAG - 0,25 PLP @1LT '72 3,38 16.618,64 0,00 18.400,57 '1/0 2,44 35.316,72 0,00 39.201,56 FORTUNE PALM OIL CTN6/PCH - - PCH @2LT '3/0 2,94 35.135,72 0,00 39.000,65 '1/0 3,21 17.838,40 0,00 19.800,62 FORTUNE PALM OIL CTN12/PCH - - PCH @1LT '3/0 3,70 17.748,09 0,00 19.700,38 '1/0 2,49 31.983,28 0,00 35.501,44 FORTUNE PALM OIL CTN6/PCH - - PCH @1.8LT '3/0 3,04 31.802,88 0,00 35.301,20 '24 2,59 13.637,40 0,00 15.099,67 FORTUNE PALM OIL BAG - 0,25 PLP @0.8LT '72 3,23 13.547,80 0,00 15.000,46 '1/0 3,98 14.595,04 0,00 16.200,49 FORTUNE PALM OIL CTN12/PCH - - PCH @0.8LT '3/0 4,58 14.503,84 0,00 16.099,26",
+        "GROUP OUTLET": "SUB REGION : KC001102 - LAMPUNG DISTRIBUTOR : 20DJFAJ002 - CV. Fajar Lestari Tulang Bawang PROMO TYPE : 31. DISCOUNT PROMO - 31. DISCOUNT PROMO COMPENSATION : SUB PROMO TYPE : 31C - STRATA DISCOUNT COST CATEGORY ☐ INCLUDE TRADING TERM ☐ EXCLUDE TRADING TERM ☐ OTB ☐ PF TIPE CP ☑ CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL ☑ DISTRIBUTOR CLAIM BASED ☐ SELLING - IN ☑ SELLING - OUT MECHANISM: '1. Strata '2. Dist klaim berdasarkan ketentuan '3. Auto PD DISCOUNT PROMOTION DISC % Additional Disc % CUT PRICE PRICE LIST SHARE SKU UOM RBP DIST STRATA RBP STORE RBP NET INC PPN SATP DIST % REG IOM OTH D 1 D 2 D 3 D 4 D 5 OTB PF FORTUNE PALM OIL BAG 17.200,00 - - - 17.200,00 ✔ 3,38 - - - - 0,00 0,00 16.618,64 0,25 18.400,57 PLP @1LT FORTUNE PALM OIL CTN6/PCH 36.200,00 - - - 36.200,00 ✔ 2,94 - - - - 0,00 0,00 35.135,72 0,00 39.000,65 PCH @2LT FORTUNE PALM OIL CTN12/PCH 18.430,00 - - - 18.430,00 ✔ 3,70 - - - - 0,00 0,00 17.748,09 0,00 19.700,38 PCH @1LT FORTUNE PALM OIL CTN6/PCH 32.800,00 - - - 32.800,00 ✔ 3,04 - - - - 0,00 0,00 31.802,88 0,00 35.301,20 PCH @1.8LT FORTUNE PALM OIL BAG 14.000,00 - - - 14.000,00 ✔ 3,23 - - - - 0,00 0,00 13.547,80 0,25 15.000,46 PLP @0.8LT FORTUNE PALM OIL CTN12/PCH 15.200,00 - - - 15.200,00 ✔ 4,58 - - - - 0,00 0,00 14.503,84 0,00 16.099,26 PCH @0.8LT STRATA DISCOUNT TABLE CUT PRICE SHARE SKU UOM MIN QTY / CTN DISC % RBP STORE OFF INV RBP NET INC PPN DIST % OTB PF '24 2,86 16.708,08 0,00 18.499,60 FORTUNE PALM OIL BAG - 0,25 PLP @1LT '72 3,38 16.618,64 0,00 18.400,57 '1/0 2,44 35.316,72 0,00 39.201,56 FORTUNE PALM OIL CTN6/PCH - - PCH @2LT '3/0 2,94 35.135,72 0,00 39.000,65 '1/0 3,21 17.838,40 0,00 19.800,62 FORTUNE PALM OIL CTN12/PCH - - PCH @1LT '3/0 3,70 17.748,09 0,00 19.700,38 '1/0 2,49 31.983,28 0,00 35.501,44 FORTUNE PALM OIL CTN6/PCH - - PCH @1.8LT '3/0 3,04 31.802,88 0,00 35.301,20 '24 2,59 13.637,40 0,00 15.099,67 FORTUNE PALM OIL BAG - 0,25 PLP @0.8LT '72 3,23 13.547,80 0,00 15.000,46 '1/0 3,98 14.595,04 0,00 16.200,49 FORTUNE PALM OIL CTN12/PCH - - PCH @0.8LT '3/0 4,58 14.503,84 0,00 16.099,26",
+        "COMPENSATION": "SUB PROMO TYPE : 31C - STRATA DISCOUNT COST CATEGORY ☐ INCLUDE TRADING TERM ☐ EXCLUDE TRADING TERM ☐ OTB ☐ PF TIPE CP ☑ CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL ☑ DISTRIBUTOR CLAIM BASED ☐ SELLING - IN ☑ SELLING - OUT MECHANISM: '1. Strata '2. Dist klaim berdasarkan ketentuan '3. Auto PD DISCOUNT PROMOTION DISC % Additional Disc % CUT PRICE PRICE LIST SHARE SKU UOM RBP DIST STRATA RBP STORE RBP NET INC PPN SATP DIST % REG IOM OTH D 1 D 2 D 3 D 4 D 5 OTB PF FORTUNE PALM OIL BAG 17.200,00 - - - 17.200,00 ✔ 3,38 - - - - 0,00 0,00 16.618,64 0,25 18.400,57 PLP @1LT FORTUNE PALM OIL CTN6/PCH 36.200,00 - - - 36.200,00 ✔ 2,94 - - - - 0,00 0,00 35.135,72 0,00 39.000,65 PCH @2LT FORTUNE PALM OIL CTN12/PCH 18.430,00 - - - 18.430,00 ✔ 3,70 - - - - 0,00 0,00 17.748,09 0,00 19.700,38 PCH @1LT FORTUNE PALM OIL CTN6/PCH 32.800,00 - - - 32.800,00 ✔ 3,04 - - - - 0,00 0,00 31.802,88 0,00 35.301,20 PCH @1.8LT FORTUNE PALM OIL BAG 14.000,00 - - - 14.000,00 ✔ 3,23 - - - - 0,00 0,00 13.547,80 0,25 15.000,46 PLP @0.8LT FORTUNE PALM OIL CTN12/PCH 15.200,00 - - - 15.200,00 ✔ 4,58 - - - - 0,00 0,00 14.503,84 0,00 16.099,26 PCH @0.8LT STRATA DISCOUNT TABLE CUT PRICE SHARE SKU UOM MIN QTY / CTN DISC % RBP STORE OFF INV RBP NET INC PPN DIST % OTB PF '24 2,86 16.708,08 0,00 18.499,60 FORTUNE PALM OIL BAG - 0,25 PLP @1LT '72 3,38 16.618,64 0,00 18.400,57 '1/0 2,44 35.316,72 0,00 39.201,56 FORTUNE PALM OIL CTN6/PCH - - PCH @2LT '3/0 2,94 35.135,72 0,00 39.000,65 '1/0 3,21 17.838,40 0,00 19.800,62 FORTUNE PALM OIL CTN12/PCH - - PCH @1LT '3/0 3,70 17.748,09 0,00 19.700,38 '1/0 2,49 31.983,28 0,00 35.501,44 FORTUNE PALM OIL CTN6/PCH - - PCH @1.8LT '3/0 3,04 31.802,88 0,00 35.301,20 '24 2,59 13.637,40 0,00 15.099,67 FORTUNE PALM OIL BAG - 0,25 PLP @0.8LT '72 3,23 13.547,80 0,00 15.000,46 '1/0 3,98 14.595,04 0,00 16.200,49 FORTUNE PALM OIL CTN12/PCH - - PCH @0.8LT '3/0 4,58 14.503,84 0,00 16.099,26",
+        "COST CATEGORY": "☐ INCLUDE TRADING TERM ☐ EXCLUDE TRADING TERM ☐ OTB ☐ PF TIPE CP ☑ CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL ☑ DISTRIBUTOR CLAIM BASED ☐ SELLING - IN ☑ SELLING - OUT MECHANISM: '1. Strata '2. Dist klaim berdasarkan ketentuan '3. Auto PD DISCOUNT PROMOTION DISC % Additional Disc % CUT PRICE PRICE LIST SHARE SKU UOM RBP DIST STRATA RBP STORE RBP NET INC PPN SATP DIST % REG IOM OTH D 1 D 2 D 3 D 4 D 5 OTB PF FORTUNE PALM OIL BAG 17.200,00 - - - 17.200,00 ✔ 3,38 - - - - 0,00 0,00 16.618,64 0,25 18.400,57 PLP @1LT FORTUNE PALM OIL CTN6/PCH 36.200,00 - - - 36.200,00 ✔ 2,94 - - - - 0,00 0,00 35.135,72 0,00 39.000,65 PCH @2LT FORTUNE PALM OIL CTN12/PCH 18.430,00 - - - 18.430,00 ✔ 3,70 - - - - 0,00 0,00 17.748,09 0,00 19.700,38 PCH @1LT FORTUNE PALM OIL CTN6/PCH 32.800,00 - - - 32.800,00 ✔ 3,04 - - - - 0,00 0,00 31.802,88 0,00 35.301,20 PCH @1.8LT FORTUNE PALM OIL BAG 14.000,00 - - - 14.000,00 ✔ 3,23 - - - - 0,00 0,00 13.547,80 0,25 15.000,46 PLP @0.8LT FORTUNE PALM OIL CTN12/PCH 15.200,00 - - - 15.200,00 ✔ 4,58 - - - - 0,00 0,00 14.503,84 0,00 16.099,26 PCH @0.8LT STRATA DISCOUNT TABLE CUT PRICE SHARE SKU UOM MIN QTY / CTN DISC % RBP STORE OFF INV RBP NET INC PPN DIST % OTB PF '24 2,86 16.708,08 0,00 18.499,60 FORTUNE PALM OIL BAG - 0,25 PLP @1LT '72 3,38 16.618,64 0,00 18.400,57 '1/0 2,44 35.316,72 0,00 39.201,56 FORTUNE PALM OIL CTN6/PCH - - PCH @2LT '3/0 2,94 35.135,72 0,00 39.000,65 '1/0 3,21 17.838,40 0,00 19.800,62 FORTUNE PALM OIL CTN12/PCH - - PCH @1LT '3/0 3,70 17.748,09 0,00 19.700,38 '1/0 2,49 31.983,28 0,00 35.501,44 FORTUNE PALM OIL CTN6/PCH - - PCH @1.8LT '3/0 3,04 31.802,88 0,00 35.301,20 '24 2,59 13.637,40 0,00 15.099,67 FORTUNE PALM OIL BAG - 0,25 PLP @0.8LT '72 3,23 13.547,80 0,00 15.000,46 '1/0 3,98 14.595,04 0,00 16.200,49 FORTUNE PALM OIL CTN12/PCH - - PCH @0.8LT '3/0 4,58 14.503,84 0,00 16.099,26",
+        "TIPE CP": "☑ CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL ☑ DISTRIBUTOR CLAIM BASED ☐ SELLING - IN ☑ SELLING - OUT MECHANISM: '1. Strata '2. Dist klaim berdasarkan ketentuan '3. Auto PD DISCOUNT PROMOTION DISC % Additional Disc % CUT PRICE PRICE LIST SHARE SKU UOM RBP DIST STRATA RBP STORE RBP NET INC PPN SATP DIST % REG IOM OTH D 1 D 2 D 3 D 4 D 5 OTB PF FORTUNE PALM OIL BAG 17.200,00 - - - 17.200,00 ✔ 3,38 - - - - 0,00 0,00 16.618,64 0,25 18.400,57 PLP @1LT FORTUNE PALM OIL CTN6/PCH 36.200,00 - - - 36.200,00 ✔ 2,94 - - - - 0,00 0,00 35.135,72 0,00 39.000,65 PCH @2LT FORTUNE PALM OIL CTN12/PCH 18.430,00 - - - 18.430,00 ✔ 3,70 - - - - 0,00 0,00 17.748,09 0,00 19.700,38 PCH @1LT FORTUNE PALM OIL CTN6/PCH 32.800,00 - - - 32.800,00 ✔ 3,04 - - - - 0,00 0,00 31.802,88 0,00 35.301,20 PCH @1.8LT FORTUNE PALM OIL BAG 14.000,00 - - - 14.000,00 ✔ 3,23 - - - - 0,00 0,00 13.547,80 0,25 15.000,46 PLP @0.8LT FORTUNE PALM OIL CTN12/PCH 15.200,00 - - - 15.200,00 ✔ 4,58 - - - - 0,00 0,00 14.503,84 0,00 16.099,26 PCH @0.8LT STRATA DISCOUNT TABLE CUT PRICE SHARE SKU UOM MIN QTY / CTN DISC % RBP STORE OFF INV RBP NET INC PPN DIST % OTB PF '24 2,86 16.708,08 0,00 18.499,60 FORTUNE PALM OIL BAG - 0,25 PLP @1LT '72 3,38 16.618,64 0,00 18.400,57 '1/0 2,44 35.316,72 0,00 39.201,56 FORTUNE PALM OIL CTN6/PCH - - PCH @2LT '3/0 2,94 35.135,72 0,00 39.000,65 '1/0 3,21 17.838,40 0,00 19.800,62 FORTUNE PALM OIL CTN12/PCH - - PCH @1LT '3/0 3,70 17.748,09 0,00 19.700,38 '1/0 2,49 31.983,28 0,00 35.501,44 FORTUNE PALM OIL CTN6/PCH - - PCH @1.8LT '3/0 3,04 31.802,88 0,00 35.301,20 '24 2,59 13.637,40 0,00 15.099,67 FORTUNE PALM OIL BAG - 0,25 PLP @0.8LT '72 3,23 13.547,80 0,00 15.000,46 '1/0 3,98 14.595,04 0,00 16.200,49 FORTUNE PALM OIL CTN12/PCH - - PCH @0.8LT '3/0 4,58 14.503,84 0,00 16.099,26",
+        "TIPE CLAIM": "☐ PRINCIPAL ☑ DISTRIBUTOR CLAIM BASED ☐ SELLING - IN ☑ SELLING - OUT MECHANISM: '1. Strata '2. Dist klaim berdasarkan ketentuan '3. Auto PD DISCOUNT PROMOTION DISC % Additional Disc % CUT PRICE PRICE LIST SHARE SKU UOM RBP DIST STRATA RBP STORE RBP NET INC PPN SATP DIST % REG IOM OTH D 1 D 2 D 3 D 4 D 5 OTB PF FORTUNE PALM OIL BAG 17.200,00 - - - 17.200,00 ✔ 3,38 - - - - 0,00 0,00 16.618,64 0,25 18.400,57 PLP @1LT FORTUNE PALM OIL CTN6/PCH 36.200,00 - - - 36.200,00 ✔ 2,94 - - - - 0,00 0,00 35.135,72 0,00 39.000,65 PCH @2LT FORTUNE PALM OIL CTN12/PCH 18.430,00 - - - 18.430,00 ✔ 3,70 - - - - 0,00 0,00 17.748,09 0,00 19.700,38 PCH @1LT FORTUNE PALM OIL CTN6/PCH 32.800,00 - - - 32.800,00 ✔ 3,04 - - - - 0,00 0,00 31.802,88 0,00 35.301,20 PCH @1.8LT FORTUNE PALM OIL BAG 14.000,00 - - - 14.000,00 ✔ 3,23 - - - - 0,00 0,00 13.547,80 0,25 15.000,46 PLP @0.8LT FORTUNE PALM OIL CTN12/PCH 15.200,00 - - - 15.200,00 ✔ 4,58 - - - - 0,00 0,00 14.503,84 0,00 16.099,26 PCH @0.8LT STRATA DISCOUNT TABLE CUT PRICE SHARE SKU UOM MIN QTY / CTN DISC % RBP STORE OFF INV RBP NET INC PPN DIST % OTB PF '24 2,86 16.708,08 0,00 18.499,60 FORTUNE PALM OIL BAG - 0,25 PLP @1LT '72 3,38 16.618,64 0,00 18.400,57 '1/0 2,44 35.316,72 0,00 39.201,56 FORTUNE PALM OIL CTN6/PCH - - PCH @2LT '3/0 2,94 35.135,72 0,00 39.000,65 '1/0 3,21 17.838,40 0,00 19.800,62 FORTUNE PALM OIL CTN12/PCH - - PCH @1LT '3/0 3,70 17.748,09 0,00 19.700,38 '1/0 2,49 31.983,28 0,00 35.501,44 FORTUNE PALM OIL CTN6/PCH - - PCH @1.8LT '3/0 3,04 31.802,88 0,00 35.301,20 '24 2,59 13.637,40 0,00 15.099,67 FORTUNE PALM OIL BAG - 0,25 PLP @0.8LT '72 3,23 13.547,80 0,00 15.000,46 '1/0 3,98 14.595,04 0,00 16.200,49 FORTUNE PALM OIL CTN12/PCH - - PCH @0.8LT '3/0 4,58 14.503,84 0,00 16.099,26",
+        "CLAIM BASED": "☐ SELLING - IN ☑ SELLING - OUT MECHANISM: '1. Strata '2. Dist klaim berdasarkan ketentuan '3. Auto PD DISCOUNT PROMOTION DISC % Additional Disc % CUT PRICE PRICE LIST SHARE SKU UOM RBP DIST STRATA RBP STORE RBP NET INC PPN SATP DIST % REG IOM OTH D 1 D 2 D 3 D 4 D 5 OTB PF FORTUNE PALM OIL BAG 17.200,00 - - - 17.200,00 ✔ 3,38 - - - - 0,00 0,00 16.618,64 0,25 18.400,57 PLP @1LT FORTUNE PALM OIL CTN6/PCH 36.200,00 - - - 36.200,00 ✔ 2,94 - - - - 0,00 0,00 35.135,72 0,00 39.000,65 PCH @2LT FORTUNE PALM OIL CTN12/PCH 18.430,00 - - - 18.430,00 ✔ 3,70 - - - - 0,00 0,00 17.748,09 0,00 19.700,38 PCH @1LT FORTUNE PALM OIL CTN6/PCH 32.800,00 - - - 32.800,00 ✔ 3,04 - - - - 0,00 0,00 31.802,88 0,00 35.301,20 PCH @1.8LT FORTUNE PALM OIL BAG 14.000,00 - - - 14.000,00 ✔ 3,23 - - - - 0,00 0,00 13.547,80 0,25 15.000,46 PLP @0.8LT FORTUNE PALM OIL CTN12/PCH 15.200,00 - - - 15.200,00 ✔ 4,58 - - - - 0,00 0,00 14.503,84 0,00 16.099,26 PCH @0.8LT STRATA DISCOUNT TABLE CUT PRICE SHARE SKU UOM MIN QTY / CTN DISC % RBP STORE OFF INV RBP NET INC PPN DIST % OTB PF '24 2,86 16.708,08 0,00 18.499,60 FORTUNE PALM OIL BAG - 0,25 PLP @1LT '72 3,38 16.618,64 0,00 18.400,57 '1/0 2,44 35.316,72 0,00 39.201,56 FORTUNE PALM OIL CTN6/PCH - - PCH @2LT '3/0 2,94 35.135,72 0,00 39.000,65 '1/0 3,21 17.838,40 0,00 19.800,62 FORTUNE PALM OIL CTN12/PCH - - PCH @1LT '3/0 3,70 17.748,09 0,00 19.700,38 '1/0 2,49 31.983,28 0,00 35.501,44 FORTUNE PALM OIL CTN6/PCH - - PCH @1.8LT '3/0 3,04 31.802,88 0,00 35.301,20 '24 2,59 13.637,40 0,00 15.099,67 FORTUNE PALM OIL BAG - 0,25 PLP @0.8LT '72 3,23 13.547,80 0,00 15.000,46 '1/0 3,98 14.595,04 0,00 16.200,49 FORTUNE PALM OIL CTN12/PCH - - PCH @0.8LT '3/0 4,58 14.503,84 0,00 16.099,26"
+    },
+    "tables": [
+        [
+            {
+                "product": "DISCOUNT PROMOTION",
+                "UOM": "",
+                "price_list": "",
+                "DISC % REG": "",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": ""
+            },
+            {
+                "product": "SKU",
+                "UOM": "UOM",
+                "price_list": "PRICE LIST\nSATP",
+                "DISC % REG": "DISC %",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "RBP DIST",
+                "CUT PRICE OTB": "STRATA"
+            },
+            {
+                "product": "",
+                "UOM": "",
+                "price_list": "",
+                "DISC % REG": "REG",
+                "DISC % IOM": "IOM",
+                "RBP DIST": "OTH",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": ""
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPLP @1LT",
+                "UOM": "BAG",
+                "price_list": "17.200,00",
+                "DISC % REG": "-",
+                "DISC % IOM": "-",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "17.200,00",
+                "CUT PRICE OTB": "✔"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPCH @2LT",
+                "UOM": "CTN6/PCH",
+                "price_list": "36.200,00",
+                "DISC % REG": "-",
+                "DISC % IOM": "-",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "36.200,00",
+                "CUT PRICE OTB": "✔"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPCH @1LT",
+                "UOM": "CTN12/PCH",
+                "price_list": "18.430,00",
+                "DISC % REG": "-",
+                "DISC % IOM": "-",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "18.430,00",
+                "CUT PRICE OTB": "✔"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPCH @1.8LT",
+                "UOM": "CTN6/PCH",
+                "price_list": "32.800,00",
+                "DISC % REG": "-",
+                "DISC % IOM": "-",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "32.800,00",
+                "CUT PRICE OTB": "✔"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPLP @0.8LT",
+                "UOM": "BAG",
+                "price_list": "14.000,00",
+                "DISC % REG": "-",
+                "DISC % IOM": "-",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "14.000,00",
+                "CUT PRICE OTB": "✔"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPCH @0.8LT",
+                "UOM": "CTN12/PCH",
+                "price_list": "15.200,00",
+                "DISC % REG": "-",
+                "DISC % IOM": "-",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "15.200,00",
+                "CUT PRICE OTB": "✔"
+            },
+            {
+                "product": "STRATA DISCOUNT TABLE",
+                "UOM": "",
+                "price_list": "",
+                "DISC % REG": "",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": ""
+            },
+            {
+                "product": "SKU",
+                "UOM": "UOM",
+                "price_list": "MIN QTY / CTN",
+                "DISC % REG": "DISC %",
+                "DISC % IOM": "RBP STORE OFF INV",
+                "RBP DIST": "CUT PRICE",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": "SHARE\nDIST %"
+            },
+            {
+                "product": "",
+                "UOM": "",
+                "price_list": "",
+                "DISC % REG": "",
+                "DISC % IOM": "",
+                "RBP DIST": "OTB",
+                "Additional Disc % D 1": "PF",
+                "CUT PRICE OTB": ""
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPLP @1LT",
+                "UOM": "BAG",
+                "price_list": "'24",
+                "DISC % REG": "2,86",
+                "DISC % IOM": "16.708,08",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "0,25"
+            },
+            {
+                "product": "",
+                "UOM": "",
+                "price_list": "'72",
+                "DISC % REG": "3,38",
+                "DISC % IOM": "16.618,64",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": ""
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPCH @2LT",
+                "UOM": "CTN6/PCH",
+                "price_list": "'1/0",
+                "DISC % REG": "2,44",
+                "DISC % IOM": "35.316,72",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "-"
+            },
+            {
+                "product": "",
+                "UOM": "",
+                "price_list": "'3/0",
+                "DISC % REG": "2,94",
+                "DISC % IOM": "35.135,72",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": ""
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPCH @1LT",
+                "UOM": "CTN12/PCH",
+                "price_list": "'1/0",
+                "DISC % REG": "3,21",
+                "DISC % IOM": "17.838,40",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "-"
+            },
+            {
+                "product": "",
+                "UOM": "",
+                "price_list": "'3/0",
+                "DISC % REG": "3,70",
+                "DISC % IOM": "17.748,09",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": ""
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPCH @1.8LT",
+                "UOM": "CTN6/PCH",
+                "price_list": "'1/0",
+                "DISC % REG": "2,49",
+                "DISC % IOM": "31.983,28",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "-"
+            },
+            {
+                "product": "",
+                "UOM": "",
+                "price_list": "'3/0",
+                "DISC % REG": "3,04",
+                "DISC % IOM": "31.802,88",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": ""
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPLP @0.8LT",
+                "UOM": "BAG",
+                "price_list": "'24",
+                "DISC % REG": "2,59",
+                "DISC % IOM": "13.637,40",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "0,25"
+            },
+            {
+                "product": "",
+                "UOM": "",
+                "price_list": "'72",
+                "DISC % REG": "3,23",
+                "DISC % IOM": "13.547,80",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": ""
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPCH @0.8LT",
+                "UOM": "CTN12/PCH",
+                "price_list": "'1/0",
+                "DISC % REG": "3,98",
+                "DISC % IOM": "14.595,04",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "-"
+            },
+            {
+                "product": "",
+                "UOM": "",
+                "price_list": "'3/0",
+                "DISC % REG": "4,58",
+                "DISC % IOM": "14.503,84",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": ""
+            }
+        ],
+        [
+            {
+                "product": "SKU",
+                "UOM": "UOM",
+                "price_list": "RBP DIST",
+                "DISC % REG": "PRODUCT PROMOTION",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": ""
+            },
+            {
+                "product": "",
+                "UOM": "",
+                "price_list": "",
+                "DISC % REG": "MIX\nITEM",
+                "DISC % IOM": "STRATA",
+                "RBP DIST": "SKU BONUS",
+                "Additional Disc % D 1": "DESCRIPTION",
+                "CUT PRICE OTB": "Price\n(CBP/RBP/\nDBP/Cost)"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPLP @1LT",
+                "UOM": "BAG",
+                "price_list": "17.200,00",
+                "DISC % REG": "",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": "0,00"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPCH @2LT",
+                "UOM": "CTN6/PCH",
+                "price_list": "36.200,00",
+                "DISC % REG": "",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": "0,00"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPCH @1LT",
+                "UOM": "CTN12/PCH",
+                "price_list": "18.430,00",
+                "DISC % REG": "",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": "0,00"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPCH @1.8LT",
+                "UOM": "CTN6/PCH",
+                "price_list": "32.800,00",
+                "DISC % REG": "",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": "0,00"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPLP @0.8LT",
+                "UOM": "BAG",
+                "price_list": "14.000,00",
+                "DISC % REG": "",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": "0,00"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPCH @0.8LT",
+                "UOM": "CTN12/PCH",
+                "price_list": "15.200,00",
+                "DISC % REG": "",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": "0,00"
+            },
+            {
+                "product": "SKU",
+                "UOM": "SALES COMITMENT",
+                "price_list": "",
+                "DISC % REG": "TOTAL DISCOUNT",
+                "DISC % IOM": "TOTAL PRODUCT PROMO",
+                "RBP DIST": "TOTAL OTB",
+                "Additional Disc % D 1": "TOTAL PF",
+                "CUT PRICE OTB": "TOTAL EST BUDGET\nPROMO"
+            },
+            {
+                "product": "",
+                "UOM": "QTY IN CTN",
+                "price_list": "VALUE",
+                "DISC % REG": "",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": ""
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPLP @1LT",
+                "UOM": "6.000",
+                "price_list": "99.711.840,00",
+                "DISC % REG": "3.492.000,00",
+                "DISC % IOM": "0,00",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "3.492.000,00"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPCH @2LT",
+                "UOM": "0/0",
+                "price_list": "0,00",
+                "DISC % REG": "0,00",
+                "DISC % IOM": "0,00",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "0,00"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPCH @1LT",
+                "UOM": "0/0",
+                "price_list": "0,00",
+                "DISC % REG": "0,00",
+                "DISC % IOM": "0,00",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "0,00"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPCH @1.8LT",
+                "UOM": "0/0",
+                "price_list": "0,00",
+                "DISC % REG": "0,00",
+                "DISC % IOM": "0,00",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "0,00"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPLP @0.8LT",
+                "UOM": "6.000",
+                "price_list": "81.286.800,00",
+                "DISC % REG": "2.718.000,00",
+                "DISC % IOM": "0,00",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "2.718.000,00"
+            },
+            {
+                "product": "FORTUNE PALM OIL\nPCH @0.8LT",
+                "UOM": "0/0",
+                "price_list": "0,00",
+                "DISC % REG": "0,00",
+                "DISC % IOM": "0,00",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "0,00"
+            }
+        ]
+    ]
+}

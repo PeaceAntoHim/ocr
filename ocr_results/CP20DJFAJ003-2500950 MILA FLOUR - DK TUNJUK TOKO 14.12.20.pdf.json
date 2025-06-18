@@ -1,0 +1,398 @@
+{
+    "metadata": {
+        "NOMOR": "CP20DJFAJ003-2500950 LAMPIRAN OUTLET NO ID OUTLET ID OUTLET SFA NAMA OUTLET 1 20DJFAJ003-20-000002 DJFAJ03-19-000324 TUBALI 2 20DJFAJ003-20-000005 DJFAJ03-19-000477 HARAPAN MAJU 3 20DJFAJ003-20-000006 DJFAJ03-19-000365 MARBUN 4 20DJFAJ003-21-000015 DJFAJ03-19-000253 BALI JAYA 5 20DJFAJ003-21-000019 DJFAJ03-19-000302 EFI 6 20DJFAJ003-21-000023 DJFAJ03-19-000063 HARAHAP 7 20DJFAJ003-21-000028 DJFAJ03-19-000377 IRZA 8 20DJFAJ003-21-000039 DJFAJ03-19-000091 TONI 9 20DJFAJ003-21-000041 DJFAJ03-19-000375 UCOK 10 20DJFAJ003-22-000043 DJFAJ03-19-000318 MAPAN 11 20DJFAJ003-22-000045 DJFAJ03-22-000540 TUNAS NAULI 12 20DJFAJ003-19-000007 DJFAJ03-19-000421 CV BUMI KARYA MAKMUR 13 20DJFAJ003-19-000010 DJFAJ03-19-000418 TAMBAH JAYA 14 20DJFAJ003-19-000013 DJFAJ03-19-000314 FEBRI 15 20DJFAJ003-19-000022 DJFAJ03-19-000229 BSJ (PT. BERKAH SENJAYA) 16 20DJFAJ003-19-000026 DJFAJ03-19-000003 AHMAD TASI 17 20DJFAJ003-19-000049 DJFAJ03-19-000061 ARJUNA 18 20DJFAJ003-21-000018 DJFAJ03-19-000211 DONI 19 20DJFAJ003-21-000020 DJFAJ03-19-000147 ELPIN BATUBARA 20 20DJFAJ003-21-000027 DJFAJ03-19-000148 HORISON JAYA 21 20DJFAJ003-21-000035 DJFAJ03-19-000227 RIDO WAHYUDI 22 20DJFAJ003-21-000036 DJFAJ03-19-000379 SOLEH 23 20DJFAJ003-22-000044 DJFAJ03-22-000559 BARU, TK 24 20DJFAJ003-22-000046 DJFAJ03-19-000350 KURNIA JAYA 25 20DJFAJ003-23-000048 DJFAJ03-22-000560 FROZEN FOOD STORE 26 20DJFAJ003-24-000059 DJFAJ03-20-000493 KURNI JAYA 27 20DJFAJ003-24-000060 DJFAJ03-24-000606 CV. BINA UTAMA MULTIGUNA",
+        "PRODUCT CATEGORY ": "FLOUR REF DOC: APP-KC1102-20DJFAJ003-25-00001362",
+        "BRAND ": "MILA REF CP NO : -",
+        "CHANNEL ": "GT PERIODE CP: 04/03/2025 - 15/03/2025",
+        "REGION ": "KC0011 - BMW HO JAKARTA GROUP OUTLET :",
+        "SUB REGION ": "KC001102 - LAMPUNG *Lihat Outlet Pada Lampiran",
+        "DISTRIBUTOR ": "20DJFAJ003 - CV. Fajar Lestari Kotabumi",
+        "PROMO TYPE ": "31. DISCOUNT PROMO - 31. DISCOUNT PROMO COMPENSATION :",
+        "SUB PROMO TYPE ": "31D - DEAL KHUSUS COST CATEGORY [ ] INCLUDE TRADING TERM [ ] EXCLUDE TRADING TERM [ ] OTB [ ] PF TIPE CP [X] CLAIM [ ] ON INVOICE [ ] PURCHASE TIPE CLAIM [ ] PRINCIPAL [X] DISTRIBUTOR CLAIM BASED [ ] SELLING - IN [X] SELLING - OUT",
+        "MECHANISM": "'1. Deal Khusus Toko min 300crt '2. Auto PD DISCOUNT PROMOTION DISC % Additional Disc % CUT PRICE PRICE LIST SHARE SKU UOM RBP DIST STRATA RBP STORE RBP NET INC PPN SATP DIST % REG IOM OTH D 1 D 2 D 3 D 4 D 5 OTB PF MILA FLOUR BAG CTN10/BAG 9.200,00 - - - 9.200,00 ✔ 7,72 - - - - 0,00 0,00 8.489,76 0,25 9.400,08 @1KG STRATA DISCOUNT TABLE CUT PRICE SHARE SKU UOM MIN QTY / CTN DISC % RBP STORE OFF INV RBP NET INC PPN DIST % OTB PF MILA FLOUR BAG CTN10/BAG '300/0 7,72 8.489,76 0,00 - 0,25 9.400,08 @1KG PRODUCT PROMOTION SKU UOM RBP DIST Price MIX QTY IN STRATA SKU BONUS DESCRIPTION (CBP/RBP/ UOM TOTAL BUDGET ITEM PCS DBP/Cost) MILA FLOUR BAG CTN10/BAG 9.200,00 0,00 0 0,00 @1KG SALES COMITMENT TOTAL EST BUDGET SKU TOTAL DISCOUNT TOTAL PRODUCT PROMO TOTAL OTB TOTAL PF PROMO QTY IN CTN VALUE MILA FLOUR BAG 3000/0 254.692.800,00 21.330.000,00 0,00 - - 21.330.000,00 @1KG PREPARED BY NUGRAHA PUTRA APPROVED BY *APPROVED BY PT. SARI AGROTAMA PERSADA (SATP)"
+    },
+    "tables": [
+        [
+            {
+                "0": "REF DOC: APP-KC1102-20DJFAJ003-25-00001362"
+            },
+            {
+                "0": "REF CP NO : -"
+            },
+            {
+                "0": "PERIODE CP: 04/03/2025 - 15/03/2025"
+            }
+        ],
+        [
+            {
+                "0": "DISCOUNT PROMOTION",
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": null,
+                "14": null,
+                "15": null,
+                "16": null,
+                "17": null
+            },
+            {
+                "0": "SKU",
+                "1": "UOM",
+                "2": "PRICE LIST\nSATP",
+                "3": "DISC %",
+                "4": null,
+                "5": null,
+                "6": "RBP DIST",
+                "7": "STRATA",
+                "8": "Additional Disc %",
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": "CUT PRICE",
+                "14": null,
+                "15": "RBP STORE",
+                "16": "SHARE\nDIST %",
+                "17": "RBP NET INC PPN"
+            },
+            {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": "REG",
+                "4": "IOM",
+                "5": "OTH",
+                "6": null,
+                "7": null,
+                "8": "D 1",
+                "9": "D 2",
+                "10": "D 3",
+                "11": "D 4",
+                "12": "D 5",
+                "13": "OTB",
+                "14": "PF",
+                "15": null,
+                "16": null,
+                "17": null
+            },
+            {
+                "0": "MILA FLOUR BAG\n@1KG",
+                "1": "CTN10/BAG",
+                "2": "9.200,00",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "9.200,00",
+                "7": "✔",
+                "8": "7,72",
+                "9": "-",
+                "10": "-",
+                "11": "-",
+                "12": "-",
+                "13": "0,00",
+                "14": "0,00",
+                "15": "8.489,76",
+                "16": "0,25",
+                "17": "9.400,08"
+            }
+        ],
+        [
+            {
+                "0": "STRATA DISCOUNT TABLE",
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+            },
+            {
+                "0": "SKU",
+                "1": "UOM",
+                "2": "MIN QTY / CTN",
+                "3": "DISC %",
+                "4": "RBP STORE OFF INV",
+                "5": "CUT PRICE",
+                "6": null,
+                "7": "SHARE\nDIST %",
+                "8": "RBP NET INC PPN"
+            },
+            {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": "OTB",
+                "6": "PF",
+                "7": null,
+                "8": null
+            },
+            {
+                "0": "MILA FLOUR BAG\n@1KG",
+                "1": "CTN10/BAG",
+                "2": "'300/0",
+                "3": "7,72",
+                "4": "8.489,76",
+                "5": "0,00",
+                "6": "-",
+                "7": "0,25",
+                "8": "9.400,08"
+            }
+        ],
+        [
+            {
+                "0": "SKU",
+                "1": "UOM",
+                "2": "RBP DIST",
+                "3": "PRODUCT PROMOTION",
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null
+            },
+            {
+                "0": null,
+                "1": null,
+                "2": null,
+                "3": "MIX\nITEM",
+                "4": "STRATA",
+                "5": "SKU BONUS",
+                "6": "DESCRIPTION",
+                "7": "Price\n(CBP/RBP/\nDBP/Cost)",
+                "8": "UOM",
+                "9": "QTY IN\nPCS",
+                "10": "TOTAL BUDGET"
+            },
+            {
+                "0": "MILA FLOUR BAG\n@1KG",
+                "1": "CTN10/BAG",
+                "2": "9.200,00",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": "0,00",
+                "8": "",
+                "9": "0",
+                "10": "0,00"
+            }
+        ],
+        [
+            {
+                "0": "SKU",
+                "1": "SALES COMITMENT",
+                "2": null,
+                "3": "TOTAL DISCOUNT",
+                "4": "TOTAL PRODUCT PROMO",
+                "5": "TOTAL OTB",
+                "6": "TOTAL PF",
+                "7": "TOTAL EST BUDGET\nPROMO"
+            },
+            {
+                "0": null,
+                "1": "QTY IN CTN",
+                "2": "VALUE",
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+            },
+            {
+                "0": "MILA FLOUR BAG\n@1KG",
+                "1": "3000/0",
+                "2": "254.692.800,00",
+                "3": "21.330.000,00",
+                "4": "0,00",
+                "5": "-",
+                "6": "-",
+                "7": "21.330.000,00"
+            }
+        ],
+        [
+            {
+                "0": "NO",
+                "1": "ID OUTLET",
+                "2": "ID OUTLET SFA",
+                "3": "NAMA OUTLET"
+            },
+            {
+                "0": "1",
+                "1": "20DJFAJ003-20-000002",
+                "2": "DJFAJ03-19-000324",
+                "3": "TUBALI"
+            },
+            {
+                "0": "2",
+                "1": "20DJFAJ003-20-000005",
+                "2": "DJFAJ03-19-000477",
+                "3": "HARAPAN MAJU"
+            },
+            {
+                "0": "3",
+                "1": "20DJFAJ003-20-000006",
+                "2": "DJFAJ03-19-000365",
+                "3": "MARBUN"
+            },
+            {
+                "0": "4",
+                "1": "20DJFAJ003-21-000015",
+                "2": "DJFAJ03-19-000253",
+                "3": "BALI JAYA"
+            },
+            {
+                "0": "5",
+                "1": "20DJFAJ003-21-000019",
+                "2": "DJFAJ03-19-000302",
+                "3": "EFI"
+            },
+            {
+                "0": "6",
+                "1": "20DJFAJ003-21-000023",
+                "2": "DJFAJ03-19-000063",
+                "3": "HARAHAP"
+            },
+            {
+                "0": "7",
+                "1": "20DJFAJ003-21-000028",
+                "2": "DJFAJ03-19-000377",
+                "3": "IRZA"
+            },
+            {
+                "0": "8",
+                "1": "20DJFAJ003-21-000039",
+                "2": "DJFAJ03-19-000091",
+                "3": "TONI"
+            },
+            {
+                "0": "9",
+                "1": "20DJFAJ003-21-000041",
+                "2": "DJFAJ03-19-000375",
+                "3": "UCOK"
+            },
+            {
+                "0": "10",
+                "1": "20DJFAJ003-22-000043",
+                "2": "DJFAJ03-19-000318",
+                "3": "MAPAN"
+            },
+            {
+                "0": "11",
+                "1": "20DJFAJ003-22-000045",
+                "2": "DJFAJ03-22-000540",
+                "3": "TUNAS NAULI"
+            },
+            {
+                "0": "12",
+                "1": "20DJFAJ003-19-000007",
+                "2": "DJFAJ03-19-000421",
+                "3": "CV BUMI KARYA MAKMUR"
+            },
+            {
+                "0": "13",
+                "1": "20DJFAJ003-19-000010",
+                "2": "DJFAJ03-19-000418",
+                "3": "TAMBAH JAYA"
+            },
+            {
+                "0": "14",
+                "1": "20DJFAJ003-19-000013",
+                "2": "DJFAJ03-19-000314",
+                "3": "FEBRI"
+            },
+            {
+                "0": "15",
+                "1": "20DJFAJ003-19-000022",
+                "2": "DJFAJ03-19-000229",
+                "3": "BSJ (PT. BERKAH SENJAYA)"
+            },
+            {
+                "0": "16",
+                "1": "20DJFAJ003-19-000026",
+                "2": "DJFAJ03-19-000003",
+                "3": "AHMAD TASI"
+            },
+            {
+                "0": "17",
+                "1": "20DJFAJ003-19-000049",
+                "2": "DJFAJ03-19-000061",
+                "3": "ARJUNA"
+            },
+            {
+                "0": "18",
+                "1": "20DJFAJ003-21-000018",
+                "2": "DJFAJ03-19-000211",
+                "3": "DONI"
+            },
+            {
+                "0": "19",
+                "1": "20DJFAJ003-21-000020",
+                "2": "DJFAJ03-19-000147",
+                "3": "ELPIN BATUBARA"
+            },
+            {
+                "0": "20",
+                "1": "20DJFAJ003-21-000027",
+                "2": "DJFAJ03-19-000148",
+                "3": "HORISON JAYA"
+            },
+            {
+                "0": "21",
+                "1": "20DJFAJ003-21-000035",
+                "2": "DJFAJ03-19-000227",
+                "3": "RIDO WAHYUDI"
+            },
+            {
+                "0": "22",
+                "1": "20DJFAJ003-21-000036",
+                "2": "DJFAJ03-19-000379",
+                "3": "SOLEH"
+            },
+            {
+                "0": "23",
+                "1": "20DJFAJ003-22-000044",
+                "2": "DJFAJ03-22-000559",
+                "3": "BARU, TK"
+            },
+            {
+                "0": "24",
+                "1": "20DJFAJ003-22-000046",
+                "2": "DJFAJ03-19-000350",
+                "3": "KURNIA JAYA"
+            },
+            {
+                "0": "25",
+                "1": "20DJFAJ003-23-000048",
+                "2": "DJFAJ03-22-000560",
+                "3": "FROZEN FOOD STORE"
+            },
+            {
+                "0": "26",
+                "1": "20DJFAJ003-24-000059",
+                "2": "DJFAJ03-20-000493",
+                "3": "KURNI JAYA"
+            },
+            {
+                "0": "27",
+                "1": "20DJFAJ003-24-000060",
+                "2": "DJFAJ03-24-000606",
+                "3": "CV. BINA UTAMA MULTIGUNA"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "metadata": {
+        "NOMOR": "CP20DJFAJ001-2500992",
+        "PRODUCT CATEGORY": "FLOUR REF DOC: APP-KC1102-20DJFAJ001-25-00001580",
+        "BRAND": "MILA REF CP NO : -",
+        "CHANNEL": "GT PERIODE CP: 07/02/2025 - 15/02/2025",
+        "REGION": "KC0011 - BMW HO JAKARTA GROUP OUTLET :",
+        "SUB REGION": "KC001102 - LAMPUNG",
+        "DISTRIBUTOR": "20DJFAJ001 - CV. Fajar Lestari Lampung",
+        "PROMO TYPE": "31. DISCOUNT PROMO - 31. DISCOUNT PROMO COMPENSATION :",
+        "SUB PROMO TYPE": "[X] 31C - STRATA DISCOUNT COST CATEGORY ☐ INCLUDE TRADING TERM ☐ EXCLUDE TRADING TERM ☐ OTB ☐ PF TIPE CP  CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL  DISTRIBUTOR CLAIM BASED ☐ SELLING - IN  SELLING - OUT",
+        "MECHANISM": "'1. Strata Discount '2. Stok Price List 02 Feb 25 DISCOUNT PROMOTION DISC % Additional Disc % CUT PRICE PRICE LIST SHARE SKU UOM RBP DIST STRATA RBP STORE RBP NET INC PPN SATP DIST % REG IOM OTH D 1 D 2 D 3 D 4 D 5 OTB PF MILA FLOUR BAG CTN10/BAG 9.200,00 - - - 9.200,00 ✔ 3,07 - - - - 0,00 0,00 8.917,56 1,00 9.799,50 @1KG STRATA DISCOUNT TABLE CUT PRICE SHARE SKU UOM MIN QTY / CTN DISC % RBP STORE OFF INV RBP NET INC PPN DIST % OTB PF '1/0 2,08 9.008,64 0,00 9.899,59 MILA FLOUR BAG CTN10/BAG - 1,00 @1KG '3/0 3,07 8.917,56 0,00 9.799,50 PRODUCT PROMOTION SKU UOM RBP DIST Price MIX QTY IN STRATA SKU BONUS DESCRIPTION (CBP/RBP/ UOM TOTAL BUDGET ITEM PCS DBP/Cost) MILA FLOUR BAG CTN10/BAG 9.200,00 0,00 0 0,00 @1KG SALES COMITMENT TOTAL EST BUDGET SKU TOTAL DISCOUNT TOTAL PRODUCT PROMO TOTAL OTB TOTAL PF PROMO QTY IN CTN VALUE MILA FLOUR BAG 200/0 17.835.120,00 566.000,00 0,00 - - 566.000,00 @1KG PREPARED BY NUGRAHA PUTRA APPROVED BY *APPROVED BY PT. SARI AGROTAMA PERSADA (SATP)",
+        "REF DOC": "APP-KC1102-20DJFAJ001-25-00001580 BRAND : MILA",
+        "REF CP NO": "- CHANNEL : GT",
+        "PERIODE CP": "07/02/2025 - 15/02/2025 REGION : KC0011 - BMW HO JAKARTA",
+        "GROUP OUTLET": "SUB REGION : KC001102 - LAMPUNG DISTRIBUTOR : 20DJFAJ001 - CV. Fajar Lestari Lampung PROMO TYPE : 31. DISCOUNT PROMO - 31. DISCOUNT PROMO",
+        "COMPENSATION": "SUB PROMO TYPE : 31C - STRATA DISCOUNT",
+        "COST CATEGORY": "[ ] INCLUDE TRADING TERM  EXCLUDE TRADING TERM  OTB  PF",
+        "TIPE CP": "[X] CLAIM ☐ ON INVOICE ☐ PURCHASE",
+        "TIPE CLAIM": "[X] ☐ PRINCIPAL  DISTRIBUTOR",
+        "CLAIM BASED": "[X] ☐ SELLING - IN  SELLING - OUT MECHANISM: '1. Strata Discount '2. Stok Price List 02 Feb 25 DISCOUNT PROMOTION DISC % Additional Disc % CUT PRICE PRICE LIST SHARE SKU UOM RBP DIST STRATA RBP STORE RBP NET INC PPN SATP DIST % REG IOM OTH D 1 D 2 D 3 D 4 D 5 OTB PF MILA FLOUR BAG CTN10/BAG 9.200,00 - - - 9.200,00 ✔ 3,07 - - - - 0,00 0,00 8.917,56 1,00 9.799,50 @1KG STRATA DISCOUNT TABLE CUT PRICE SHARE SKU UOM MIN QTY / CTN DISC % RBP STORE OFF INV RBP NET INC PPN DIST % OTB PF '1/0 2,08 9.008,64 0,00 9.899,59 MILA FLOUR BAG CTN10/BAG - 1,00 @1KG '3/0 3,07 8.917,56 0,00 9.799,50 PRODUCT PROMOTION SKU UOM RBP DIST Price MIX QTY IN STRATA SKU BONUS DESCRIPTION (CBP/RBP/ UOM TOTAL BUDGET ITEM PCS DBP/Cost) MILA FLOUR BAG CTN10/BAG 9.200,00 0,00 0 0,00 @1KG SALES COMITMENT TOTAL EST BUDGET SKU TOTAL DISCOUNT TOTAL PRODUCT PROMO TOTAL OTB TOTAL PF PROMO QTY IN CTN VALUE MILA FLOUR BAG 200/0 17.835.120,00 566.000,00 0,00 - - 566.000,00 @1KG PREPARED BY NUGRAHA PUTRA APPROVED BY *APPROVED BY PT. SARI AGROTAMA PERSADA (SATP)"
+    },
+    "tables": [
+        [
+            {
+                "product": "DISCOUNT PROMOTION",
+                "UOM": null,
+                "price_list": null,
+                "DISC % REG": null,
+                "DISC % IOM": null,
+                "RBP DIST": null,
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": null
+            },
+            {
+                "product": "SKU",
+                "UOM": "UOM",
+                "price_list": "PRICE LIST\nSATP",
+                "DISC % REG": "DISC %",
+                "DISC % IOM": null,
+                "RBP DIST": null,
+                "Additional Disc % D 1": "RBP DIST",
+                "CUT PRICE OTB": "STRATA"
+            },
+            {
+                "product": null,
+                "UOM": null,
+                "price_list": null,
+                "DISC % REG": "REG",
+                "DISC % IOM": "IOM",
+                "RBP DIST": "OTH",
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": null
+            },
+            {
+                "product": "MILA FLOUR BAG\n@1KG",
+                "UOM": "CTN10/BAG",
+                "price_list": "9.200,00",
+                "DISC % REG": "-",
+                "DISC % IOM": "-",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "9.200,00",
+                "CUT PRICE OTB": "✔"
+            },
+            {
+                "product": "STRATA DISCOUNT TABLE",
+                "UOM": null,
+                "price_list": null,
+                "DISC % REG": null,
+                "DISC % IOM": null,
+                "RBP DIST": null,
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": null
+            },
+            {
+                "product": "SKU",
+                "UOM": "UOM",
+                "price_list": "MIN QTY / CTN",
+                "DISC % REG": "DISC %",
+                "DISC % IOM": "RBP STORE OFF INV",
+                "RBP DIST": "CUT PRICE",
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": "SHARE\nDIST %"
+            },
+            {
+                "product": null,
+                "UOM": null,
+                "price_list": null,
+                "DISC % REG": null,
+                "DISC % IOM": null,
+                "RBP DIST": "OTB",
+                "Additional Disc % D 1": "PF",
+                "CUT PRICE OTB": null
+            },
+            {
+                "product": "MILA FLOUR BAG\n@1KG",
+                "UOM": "CTN10/BAG",
+                "price_list": "'1/0",
+                "DISC % REG": "2,08",
+                "DISC % IOM": "9.008,64",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "1,00"
+            },
+            {
+                "product": null,
+                "UOM": null,
+                "price_list": "'3/0",
+                "DISC % REG": "3,07",
+                "DISC % IOM": "8.917,56",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": null
+            },
+            {
+                "product": "SKU",
+                "UOM": "UOM",
+                "price_list": "RBP DIST",
+                "DISC % REG": "PRODUCT PROMOTION",
+                "DISC % IOM": null,
+                "RBP DIST": null,
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": null
+            },
+            {
+                "product": null,
+                "UOM": null,
+                "price_list": null,
+                "DISC % REG": "MIX\nITEM",
+                "DISC % IOM": "STRATA",
+                "RBP DIST": "SKU BONUS",
+                "Additional Disc % D 1": "DESCRIPTION",
+                "CUT PRICE OTB": "Price\n(CBP/RBP/\nDBP/Cost)"
+            },
+            {
+                "product": "MILA FLOUR BAG\n@1KG",
+                "UOM": "CTN10/BAG",
+                "price_list": "9.200,00",
+                "DISC % REG": null,
+                "DISC % IOM": null,
+                "RBP DIST": null,
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": "0,00"
+            },
+            {
+                "product": "SKU",
+                "UOM": "SALES COMITMENT",
+                "price_list": null,
+                "DISC % REG": "TOTAL DISCOUNT",
+                "DISC % IOM": "TOTAL PRODUCT PROMO",
+                "RBP DIST": "TOTAL OTB",
+                "Additional Disc % D 1": "TOTAL PF",
+                "CUT PRICE OTB": "TOTAL EST BUDGET\nPROMO"
+            },
+            {
+                "product": null,
+                "UOM": "QTY IN CTN",
+                "price_list": "VALUE",
+                "DISC % REG": null,
+                "DISC % IOM": null,
+                "RBP DIST": null,
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": null
+            },
+            {
+                "product": "MILA FLOUR BAG\n@1KG",
+                "UOM": "200/0",
+                "price_list": "17.835.120,00",
+                "DISC % REG": "566.000,00",
+                "DISC % IOM": "0,00",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "566.000,00"
+            }
+        ]
+    ]
+}

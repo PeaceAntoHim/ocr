@@ -1,0 +1,396 @@
+{
+    "m_discountschema_id": 0,
+    "token": "76af514b-a280-47b8-b5c1-95d8229e9408",
+    "ad_org_id": 0,
+    "c_doctype_id": 1000134,
+    "name": "Unknown",
+    "description": "",
+    "discounttype": "B",
+    "vendor_id": 0,
+    "requirementtype": "MS",
+    "flatdiscounttype": "P",
+    "cumulativelevel": "L",
+    "validfrom": "",
+    "validto": "",
+    "selectiontype": "ESC",
+    "budgettype": "NB",
+    "organizationaleffectiveness": "ISO",
+    "isbirthdaydiscount": "N",
+    "isincludingsubordinate": "N",
+    "qtyallocated": 0,
+    "issotrx": "Y",
+    "ispickup": "N",
+    "fl_isallowmultiplediscount": "N",
+    "isactive": "Y",
+    "list_org": [
+        {
+            "m_discountschema_id": 0,
+            "uns_discount_org_id": 0,
+            "seqno": 10,
+            "ad_org_id": 1000006,
+            "ad_orgtrx_id": 1000006,
+            "isactive": "Y"
+        }
+    ],
+    "list_customer": [
+        {
+            "m_discountschema_id": 0,
+            "uns_discount_customer_id": 0,
+            "m_discountschemabreak_id": 0,
+            "ad_org_id": 0,
+            "c_bpartner_id": 1012328
+        }
+    ],
+    "tables": [
+        {
+            "product": "No",
+            "UOM": "Nama Barang",
+            "price_list": "Ukuran",
+            "DISC % REG": "",
+            "DISC % IOM": "",
+            "RBP DIST": "Promo",
+            "Additional Disc % D 1": "Keterangan",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "1",
+            "UOM": "BOLU SM ALL VARIANT",
+            "price_list": "12",
+            "DISC % REG": "X",
+            "DISC % IOM": "24",
+            "RBP DIST": "50 +1",
+            "Additional Disc % D 1": "Bisa Mix",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "2",
+            "UOM": "CUCU BOLU ALL VARIANT",
+            "price_list": "6",
+            "DISC % REG": "X",
+            "DISC % IOM": "24",
+            "RBP DIST": "50 + 1",
+            "Additional Disc % D 1": "Bisa Mix",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "3",
+            "UOM": "VANELO ALL VARIANT",
+            "price_list": "6",
+            "DISC % REG": "X",
+            "DISC % IOM": "24",
+            "RBP DIST": "",
+            "Additional Disc % D 1": null,
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "4",
+            "UOM": "CUCU POP ALL VARIANT 20X20",
+            "price_list": "20",
+            "DISC % REG": "X",
+            "DISC % IOM": "20",
+            "RBP DIST": "Pengambilan 1 - 49 ct\nPotongan 1.000/ct",
+            "Additional Disc % D 1": "Bisa Mix, beban distributor",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "",
+            "UOM": "",
+            "price_list": "",
+            "DISC % REG": "",
+            "DISC % IOM": "",
+            "RBP DIST": "50 +1",
+            "Additional Disc % D 1": null,
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "5",
+            "UOM": "CUCU POP ALL VARIANT 10X20",
+            "price_list": "10",
+            "DISC % REG": "X",
+            "DISC % IOM": "20",
+            "RBP DIST": "Pengambilan 10 - 99 ct\nPotongan 500/ct",
+            "Additional Disc % D 1": "Bisa Mix, beban distributor",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "",
+            "UOM": "",
+            "price_list": "",
+            "DISC % REG": "",
+            "DISC % IOM": "",
+            "RBP DIST": "100+2",
+            "Additional Disc % D 1": null,
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "6",
+            "UOM": "SM LOLIPOP 8x30",
+            "price_list": "8",
+            "DISC % REG": "X",
+            "DISC % IOM": "30",
+            "RBP DIST": "50 + 1",
+            "Additional Disc % D 1": "Bisa Mix",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "",
+            "UOM": "PARAGO MILK LOLIPOP 8x30",
+            "price_list": "8",
+            "DISC % REG": "X",
+            "DISC % IOM": "30",
+            "RBP DIST": "",
+            "Additional Disc % D 1": null,
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "",
+            "UOM": "PARAGO MAGIC FRUIT 8X30",
+            "price_list": "8",
+            "DISC % REG": "X",
+            "DISC % IOM": "30",
+            "RBP DIST": "",
+            "Additional Disc % D 1": null,
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "",
+            "UOM": "PARAGO DUPLO ASSORTED 8x30",
+            "price_list": "8",
+            "DISC % REG": "X",
+            "DISC % IOM": "30",
+            "RBP DIST": "",
+            "Additional Disc % D 1": null,
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "",
+            "UOM": "PARAGO DUPLO BANANA 8x30",
+            "price_list": "8",
+            "DISC % REG": "X",
+            "DISC % IOM": "30",
+            "RBP DIST": "",
+            "Additional Disc % D 1": null,
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "",
+            "UOM": "POGY CHEWY-CENTER FILLED LOLIPOP 8x30",
+            "price_list": "8",
+            "DISC % REG": "X",
+            "DISC % IOM": "30",
+            "RBP DIST": "",
+            "Additional Disc % D 1": null,
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "7",
+            "UOM": "PARAGO BOX CHEWY ALL VARIANT",
+            "price_list": "8",
+            "DISC % REG": "X",
+            "DISC % IOM": "80",
+            "RBP DIST": "100 +1",
+            "Additional Disc % D 1": "Bisa Mix",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "8",
+            "UOM": "PARAGO CHEWY CKT/AST @3Pcs",
+            "price_list": "10",
+            "DISC % REG": "X",
+            "DISC % IOM": "20",
+            "RBP DIST": "50+1, 100+3",
+            "Additional Disc % D 1": "",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "9",
+            "UOM": "POGY PLES",
+            "price_list": "6",
+            "DISC % REG": "X",
+            "DISC % IOM": "60",
+            "RBP DIST": "75+1",
+            "Additional Disc % D 1": "",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "10",
+            "UOM": "POGY-POGY SAK",
+            "price_list": "4",
+            "DISC % REG": "X",
+            "DISC % IOM": "50",
+            "RBP DIST": "50+1",
+            "Additional Disc % D 1": "",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "11",
+            "UOM": "SM MAGIC GLOW",
+            "price_list": "20",
+            "DISC % REG": "X",
+            "DISC % IOM": "20",
+            "RBP DIST": "100 + 1",
+            "Additional Disc % D 1": "",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "12",
+            "UOM": "CUCU RICE CRIESPIE ALL VARIANT",
+            "price_list": "12",
+            "DISC % REG": "X",
+            "DISC % IOM": "24",
+            "RBP DIST": "Pengambilan 5 - 24 ct\nPotongan 1.000/ct",
+            "Additional Disc % D 1": "Bisa Mix, beban distributor",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "",
+            "UOM": "",
+            "price_list": "",
+            "DISC % REG": "",
+            "DISC % IOM": "",
+            "RBP DIST": "25 ct + 2 Box, 100 ct + 1 ct",
+            "Additional Disc % D 1": null,
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "13",
+            "UOM": "PARAGO CHEWY 50x54G ALL VARIANT",
+            "price_list": "50",
+            "DISC % REG": "X",
+            "DISC % IOM": "54gr",
+            "RBP DIST": "Discount reguler mengikuti\nstrata surat\nProgram Khusus outlet GT",
+            "Additional Disc % D 1": "Promo 5 bonus 1 dengan minimal\npengambilan 50ct (Klaim Principal)",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "14",
+            "UOM": "PARAGO CHEWY 20x120G ALL VARIANT",
+            "price_list": "20",
+            "DISC % REG": "X",
+            "DISC % IOM": "120gr",
+            "RBP DIST": "",
+            "Additional Disc % D 1": "Promo 10 bonus 1 dengan minimal\npengambilan 20ct (Klaim Principal)",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "15",
+            "UOM": "PARAGO CHEWY 20x108G ALL VARIANT",
+            "price_list": "20",
+            "DISC % REG": "X",
+            "DISC % IOM": "108gr",
+            "RBP DIST": "",
+            "Additional Disc % D 1": "Promo 10 bonus 1 dengan minimal\npengambilan 20ct (Klaim Principal)",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "16",
+            "UOM": "PARAGO CHEWY 20x210G ALL VARIANT",
+            "price_list": "20",
+            "DISC % REG": "X",
+            "DISC % IOM": "210gr",
+            "RBP DIST": "",
+            "Additional Disc % D 1": "Promo 10 bonus 1 dengan minimal\npengambilan 20ct (Klaim Principal)",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "17",
+            "UOM": "DANCING POP",
+            "price_list": "12",
+            "DISC % REG": "x",
+            "DISC % IOM": "40",
+            "RBP DIST": "10 + 2 Box, 25 + 6 Box, 50 + 1\nCrt, 75+ 18 Box , 100 + 2 Crt",
+            "Additional Disc % D 1": "",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "18",
+            "UOM": "SPICE BAND",
+            "price_list": "20",
+            "DISC % REG": "X",
+            "DISC % IOM": "20",
+            "RBP DIST": "5 + 2 Box",
+            "Additional Disc % D 1": "",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "19",
+            "UOM": "CUCU MARSHMALLOW ALL VARIANT",
+            "price_list": "30",
+            "DISC % REG": "X",
+            "DISC % IOM": "20",
+            "RBP DIST": "2%",
+            "Additional Disc % D 1": "< 5 ct",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "",
+            "UOM": "",
+            "price_list": "",
+            "DISC % REG": "",
+            "DISC % IOM": "",
+            "RBP DIST": "4% + 10rb",
+            "Additional Disc % D 1": ">= 5 ct\nPromo 10rb Klaim Principal",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "20",
+            "UOM": "CUCU MARSHMALLOW RASA COLA 12x20\nkemasan Box",
+            "price_list": "12",
+            "DISC % REG": "X",
+            "DISC % IOM": "20",
+            "RBP DIST": "2%",
+            "Additional Disc % D 1": "Promo 11 Box bonus 1 Box Klaim Principal",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "21",
+            "UOM": "CUCU MALLOW 12X20 RENCENG ALL VARIANT",
+            "price_list": "12",
+            "DISC % REG": "X",
+            "DISC % IOM": "20",
+            "RBP DIST": "2%",
+            "Additional Disc % D 1": "Promo 11 Pack bonus 1 Pack Klaim\nPrincipal",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "22",
+            "UOM": "CUCU BARCAKE VANILLA",
+            "price_list": "12",
+            "DISC % REG": "X",
+            "DISC % IOM": "12",
+            "RBP DIST": "8% Khusus Bandar motoris\ndan 5% Grosir reguler.\nBeban Distributor",
+            "Additional Disc % D 1": "Promo 6 Box bonus 1 Box, Klaim Principal",
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "23",
+            "UOM": "CUCU BARCAKE STRAWBERRY",
+            "price_list": "12",
+            "DISC % REG": "X",
+            "DISC % IOM": "12",
+            "RBP DIST": "",
+            "Additional Disc % D 1": null,
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "24",
+            "UOM": "CUCU BARCAKE PANDAN",
+            "price_list": "12",
+            "DISC % REG": "X",
+            "DISC % IOM": "12",
+            "RBP DIST": "",
+            "Additional Disc % D 1": null,
+            "CUT PRICE OTB": null
+        },
+        {
+            "product": "25",
+            "UOM": "PARAGO LOLIPOP VANILA PRIWIT 12x24",
+            "price_list": "12",
+            "DISC % REG": "X",
+            "DISC % IOM": "24",
+            "RBP DIST": "Pembelian < 1 ct mendapat\ndisc reguler",
+            "Additional Disc % D 1": "Promo 1 ct bonus 1 Box Beban Distributor,\ntidak mendapat disc reguler",
+            "CUT PRICE OTB": null
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "m_discountschema_id": 0,
+    "token": "76af514b-a280-47b8-b5c1-95d8229e9408",
+    "ad_org_id": 0,
+    "c_doctype_id": 1000134,
+    "name": "Unknown",
+    "description": "",
+    "discounttype": "B",
+    "vendor_id": 0,
+    "requirementtype": "MS",
+    "flatdiscounttype": "P",
+    "cumulativelevel": "L",
+    "validfrom": "",
+    "validto": "",
+    "selectiontype": "ESC",
+    "budgettype": "NB",
+    "organizationaleffectiveness": "ISO",
+    "isbirthdaydiscount": "N",
+    "isincludingsubordinate": "N",
+    "qtyallocated": 0,
+    "issotrx": "Y",
+    "ispickup": "N",
+    "fl_isallowmultiplediscount": "N",
+    "isactive": "Y",
+    "list_org": [
+        {
+            "m_discountschema_id": 0,
+            "uns_discount_org_id": 0,
+            "seqno": 10,
+            "ad_org_id": 1000006,
+            "ad_orgtrx_id": 1000006,
+            "isactive": "Y"
+        }
+    ],
+    "list_customer": [
+        {
+            "m_discountschema_id": 0,
+            "uns_discount_customer_id": 0,
+            "m_discountschemabreak_id": 0,
+            "ad_org_id": 0,
+            "c_bpartner_id": 1012328
+        }
+    ],
+    "tables": []
+}

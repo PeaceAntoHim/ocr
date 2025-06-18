@@ -1,0 +1,167 @@
+{
+    "metadata": {
+        "NOMOR": "CP20DJFAJ003-2500952",
+        "PRODUCT CATEGORY": "RICE",
+        "BRAND": "FORTUNE",
+        "CHANNEL": "GT",
+        "REGION": "KC0011 - BMW HO JAKARTA",
+        "SUB REGION": "[X] KC001102 - LAMPUNG DISTRIBUTOR : 20DJFAJ003 - CV. Fajar Lestari Kotabumi PROMO TYPE : 31. DISCOUNT PROMO - 31. DISCOUNT PROMO COMPENSATION : SUB PROMO TYPE : 31D - DEAL KHUSUS COST CATEGORY ☐ INCLUDE TRADING TERM ☐ EXCLUDE TRADING TERM ☐ OTB ☐ PF TIPE CP  CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL  DISTRIBUTOR CLAIM BASED ☐ SELLING - IN  SELLING - OUT",
+        "DISTRIBUTOR": "[X] 20DJFAJ003 - CV. Fajar Lestari Kotabumi PROMO TYPE : 31. DISCOUNT PROMO - 31. DISCOUNT PROMO COMPENSATION : SUB PROMO TYPE : 31D - DEAL KHUSUS COST CATEGORY ☐ INCLUDE TRADING TERM ☐ EXCLUDE TRADING TERM ☐ OTB ☐ PF TIPE CP  CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL  DISTRIBUTOR CLAIM BASED ☐ SELLING - IN  SELLING - OUT",
+        "PROMO TYPE": "31. DISCOUNT PROMO - 31. DISCOUNT PROMO",
+        "SUB PROMO TYPE": "[X] 31D - DEAL KHUSUS COST CATEGORY ☐ INCLUDE TRADING TERM ☐ EXCLUDE TRADING TERM ☐ OTB ☐ PF TIPE CP  CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL  DISTRIBUTOR CLAIM BASED ☐ SELLING - IN  SELLING - OUT",
+        "MECHANISM": "'1. Deal Khusus '2. Auto PD '3. DISC KLAIM SESUAI KETENTUAN DISCOUNT PROMOTION DISC % Additional Disc % CUT PRICE PRICE LIST SHARE SKU UOM RBP DIST STRATA RBP STORE RBP NET INC PPN SATP DIST % REG IOM OTH D 1 D 2 D 3 D 4 D 5 OTB PF FORTUNE PREMIUM CTN1/BAG 73.900,00 - - - 73.900,00 ✔ 4,80 - - - - 0,00 0,00 70.352,80 0,50 70.001,04 RICE @5KG STRATA DISCOUNT TABLE CUT PRICE SHARE SKU UOM MIN QTY / CTN DISC % RBP STORE OFF INV RBP NET INC PPN DIST % OTB PF FORTUNE PREMIUM CTN1/BAG '15/0 4,80 70.352,80 0,00 - 0,50 70.001,04 RICE @5KG PRODUCT PROMOTION SKU UOM RBP DIST Price MIX QTY IN STRATA SKU BONUS DESCRIPTION (CBP/RBP/ UOM TOTAL BUDGET ITEM PCS DBP/Cost) FORTUNE PREMIUM CTN1/BAG 73.900,00 0,00 0 0,00 RICE @5KG SALES COMITMENT TOTAL EST BUDGET SKU TOTAL DISCOUNT TOTAL PRODUCT PROMO TOTAL OTB TOTAL PF PROMO QTY IN CTN VALUE FORTUNE PREMIUM 1000/0 70.352.800,00 3.548.000,00 0,00 - - 3.548.000,00 RICE @5KG PREPARED BY NUGRAHA PUTRA APPROVED BY *APPROVED BY PT. SARI AGROTAMA PERSADA (SATP)",
+        "REF DOC": "APP-KC1102-20DJFAJ003-25-00001364",
+        "REF CP NO": "[X] - CHANNEL : GT PERIODE CP: 07/03/2025 - 15/03/2025 REGION : KC0011 - BMW HO JAKARTA GROUP OUTLET : SUB REGION : KC001102 - LAMPUNG DISTRIBUTOR : 20DJFAJ003 - CV. Fajar Lestari Kotabumi PROMO TYPE : 31. DISCOUNT PROMO - 31. DISCOUNT PROMO COMPENSATION : SUB PROMO TYPE : 31D - DEAL KHUSUS COST CATEGORY ☐ INCLUDE TRADING TERM ☐ EXCLUDE TRADING TERM ☐ OTB ☐ PF TIPE CP  CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL  DISTRIBUTOR CLAIM BASED ☐ SELLING - IN  SELLING - OUT",
+        "PERIODE CP": "[X] 07/03/2025 - 15/03/2025 REGION : KC0011 - BMW HO JAKARTA GROUP OUTLET : SUB REGION : KC001102 - LAMPUNG DISTRIBUTOR : 20DJFAJ003 - CV. Fajar Lestari Kotabumi PROMO TYPE : 31. DISCOUNT PROMO - 31. DISCOUNT PROMO COMPENSATION : SUB PROMO TYPE : 31D - DEAL KHUSUS COST CATEGORY ☐ INCLUDE TRADING TERM ☐ EXCLUDE TRADING TERM ☐ OTB ☐ PF TIPE CP  CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL  DISTRIBUTOR CLAIM BASED ☐ SELLING - IN  SELLING - OUT",
+        "GROUP OUTLET": "[X] SUB REGION : KC001102 - LAMPUNG DISTRIBUTOR : 20DJFAJ003 - CV. Fajar Lestari Kotabumi PROMO TYPE : 31. DISCOUNT PROMO - 31. DISCOUNT PROMO COMPENSATION : SUB PROMO TYPE : 31D - DEAL KHUSUS COST CATEGORY ☐ INCLUDE TRADING TERM ☐ EXCLUDE TRADING TERM ☐ OTB ☐ PF TIPE CP  CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL  DISTRIBUTOR CLAIM BASED ☐ SELLING - IN  SELLING - OUT",
+        "COMPENSATION": "[X] SUB PROMO TYPE : 31D - DEAL KHUSUS COST CATEGORY ☐ INCLUDE TRADING TERM ☐ EXCLUDE TRADING TERM ☐ OTB ☐ PF TIPE CP  CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL  DISTRIBUTOR CLAIM BASED ☐ SELLING - IN  SELLING - OUT",
+        "COST CATEGORY": "[X] ☐ INCLUDE TRADING TERM ☐ EXCLUDE TRADING TERM ☐ OTB ☐ PF TIPE CP  CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL  DISTRIBUTOR CLAIM BASED ☐ SELLING - IN  SELLING - OUT",
+        "TIPE CP": "[X] CLAIM ☐ ON INVOICE ☐ PURCHASE TIPE CLAIM ☐ PRINCIPAL  DISTRIBUTOR CLAIM BASED ☐ SELLING - IN  SELLING - OUT",
+        "TIPE CLAIM": "[X] ☐ PRINCIPAL  DISTRIBUTOR CLAIM BASED ☐ SELLING - IN  SELLING - OUT",
+        "CLAIM BASED": "[X] ☐ SELLING - IN  SELLING - OUT"
+    },
+    "tables": [
+        [
+            {
+                "product": "DISCOUNT PROMOTION",
+                "UOM": null,
+                "price_list": null,
+                "DISC % REG": null,
+                "DISC % IOM": null,
+                "RBP DIST": null,
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": null
+            },
+            {
+                "product": "SKU",
+                "UOM": "UOM",
+                "price_list": "PRICE LIST\nSATP",
+                "DISC % REG": "DISC %",
+                "DISC % IOM": null,
+                "RBP DIST": null,
+                "Additional Disc % D 1": "RBP DIST",
+                "CUT PRICE OTB": "STRATA"
+            },
+            {
+                "product": null,
+                "UOM": null,
+                "price_list": null,
+                "DISC % REG": "REG",
+                "DISC % IOM": "IOM",
+                "RBP DIST": "OTH",
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": null
+            },
+            {
+                "product": "FORTUNE PREMIUM\nRICE @5KG",
+                "UOM": "CTN1/BAG",
+                "price_list": "73.900,00",
+                "DISC % REG": "-",
+                "DISC % IOM": "-",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "73.900,00",
+                "CUT PRICE OTB": "✔"
+            },
+            {
+                "product": "STRATA DISCOUNT TABLE",
+                "UOM": null,
+                "price_list": null,
+                "DISC % REG": null,
+                "DISC % IOM": null,
+                "RBP DIST": null,
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": null
+            },
+            {
+                "product": "SKU",
+                "UOM": "UOM",
+                "price_list": "MIN QTY / CTN",
+                "DISC % REG": "DISC %",
+                "DISC % IOM": "RBP STORE OFF INV",
+                "RBP DIST": "CUT PRICE",
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": "SHARE\nDIST %"
+            },
+            {
+                "product": null,
+                "UOM": null,
+                "price_list": null,
+                "DISC % REG": null,
+                "DISC % IOM": null,
+                "RBP DIST": "OTB",
+                "Additional Disc % D 1": "PF",
+                "CUT PRICE OTB": null
+            },
+            {
+                "product": "FORTUNE PREMIUM\nRICE @5KG",
+                "UOM": "CTN1/BAG",
+                "price_list": "'15/0",
+                "DISC % REG": "4,80",
+                "DISC % IOM": "70.352,80",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "0,50"
+            },
+            {
+                "product": "SKU",
+                "UOM": "UOM",
+                "price_list": "RBP DIST",
+                "DISC % REG": "PRODUCT PROMOTION",
+                "DISC % IOM": null,
+                "RBP DIST": null,
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": null
+            },
+            {
+                "product": null,
+                "UOM": null,
+                "price_list": null,
+                "DISC % REG": "MIX\nITEM",
+                "DISC % IOM": "STRATA",
+                "RBP DIST": "SKU BONUS",
+                "Additional Disc % D 1": "DESCRIPTION",
+                "CUT PRICE OTB": "Price\n(CBP/RBP/\nDBP/Cost)"
+            },
+            {
+                "product": "FORTUNE PREMIUM\nRICE @5KG",
+                "UOM": "CTN1/BAG",
+                "price_list": "73.900,00",
+                "DISC % REG": "",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": "0,00"
+            },
+            {
+                "product": "SKU",
+                "UOM": "SALES COMITMENT",
+                "price_list": null,
+                "DISC % REG": "TOTAL DISCOUNT",
+                "DISC % IOM": "TOTAL PRODUCT PROMO",
+                "RBP DIST": "TOTAL OTB",
+                "Additional Disc % D 1": "TOTAL PF",
+                "CUT PRICE OTB": "TOTAL EST BUDGET\nPROMO"
+            },
+            {
+                "product": null,
+                "UOM": "QTY IN CTN",
+                "price_list": "VALUE",
+                "DISC % REG": null,
+                "DISC % IOM": null,
+                "RBP DIST": null,
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": null
+            },
+            {
+                "product": "FORTUNE PREMIUM\nRICE @5KG",
+                "UOM": "1000/0",
+                "price_list": "70.352.800,00",
+                "DISC % REG": "3.548.000,00",
+                "DISC % IOM": "0,00",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "3.548.000,00"
+            }
+        ]
+    ]
+}

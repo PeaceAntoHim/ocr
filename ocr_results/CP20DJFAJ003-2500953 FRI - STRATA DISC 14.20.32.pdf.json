@@ -1,0 +1,175 @@
+{
+    "metadata": {
+        "NOMOR": "CP20DJFAJ003-2500953",
+        "PRODUCT CATEGORY": "RICE REF DOC: APP-KC1102-20DJFAJ003-25-00001365",
+        "BRAND": "FORTUNE REF CP NO : -",
+        "CHANNEL": "GT PERIODE CP: 07/03/2025 - 15/03/2025",
+        "REGION": "KC0011 - BMW HO JAKARTA GROUP OUTLET :",
+        "SUB REGION": "KC001102 - LAMPUNG",
+        "DISTRIBUTOR": "20DJFAJ003 - CV. Fajar Lestari Kotabumi",
+        "PROMO TYPE": "31. DISCOUNT PROMO - 31. DISCOUNT PROMO COMPENSATION :",
+        "SUB PROMO TYPE": "31C - STRATA DISCOUNT",
+        "MECHANISM": "'1. claim DCV dengan dokumen pendukung nya"
+    },
+    "tables": [
+        [],
+        [
+            {
+                "product": "DISCOUNT PROMOTION",
+                "UOM": null,
+                "price_list": null,
+                "DISC % REG": null,
+                "DISC % IOM": null,
+                "RBP DIST": null,
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": null
+            },
+            {
+                "product": "SKU",
+                "UOM": "UOM",
+                "price_list": "PRICE LIST\nSATP",
+                "DISC % REG": "DISC %",
+                "DISC % IOM": null,
+                "RBP DIST": null,
+                "Additional Disc % D 1": "RBP DIST",
+                "CUT PRICE OTB": "STRATA"
+            },
+            {
+                "product": null,
+                "UOM": null,
+                "price_list": null,
+                "DISC % REG": "REG",
+                "DISC % IOM": "IOM",
+                "RBP DIST": "OTH",
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": null
+            },
+            {
+                "product": "FORTUNE PREMIUM\nRICE @5KG",
+                "UOM": "CTN1/BAG",
+                "price_list": "73.900,00",
+                "DISC % REG": "-",
+                "DISC % IOM": "-",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "73.900,00",
+                "CUT PRICE OTB": "✔"
+            }
+        ],
+        [
+            {
+                "product": "STRATA DISCOUNT TABLE",
+                "UOM": null,
+                "price_list": null,
+                "DISC % REG": null,
+                "DISC % IOM": null,
+                "RBP DIST": null,
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": null
+            },
+            {
+                "product": "SKU",
+                "UOM": "UOM",
+                "price_list": "MIN QTY / CTN",
+                "DISC % REG": "DISC %",
+                "DISC % IOM": "RBP STORE OFF INV",
+                "RBP DIST": "CUT PRICE",
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": "SHARE\nDIST %"
+            },
+            {
+                "product": null,
+                "UOM": null,
+                "price_list": null,
+                "DISC % REG": null,
+                "DISC % IOM": null,
+                "RBP DIST": "OTB",
+                "Additional Disc % D 1": "PF",
+                "CUT PRICE OTB": null
+            },
+            {
+                "product": "FORTUNE PREMIUM\nRICE @5KG",
+                "UOM": "CTN1/BAG",
+                "price_list": "'5/0",
+                "DISC % REG": "2,76",
+                "DISC % IOM": "71.860,36",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "0,50"
+            },
+            {
+                "product": null,
+                "UOM": null,
+                "price_list": "'10/0",
+                "DISC % REG": "3,44",
+                "DISC % IOM": "71.357,84",
+                "RBP DIST": "0,00",
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": null
+            }
+        ],
+        [
+            {
+                "product": "SKU",
+                "UOM": "UOM",
+                "price_list": "RBP DIST",
+                "DISC % REG": "PRODUCT PROMOTION",
+                "DISC % IOM": null,
+                "RBP DIST": null,
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": null
+            },
+            {
+                "product": null,
+                "UOM": null,
+                "price_list": null,
+                "DISC % REG": "MIX\nITEM",
+                "DISC % IOM": "STRATA",
+                "RBP DIST": "SKU BONUS",
+                "Additional Disc % D 1": "DESCRIPTION",
+                "CUT PRICE OTB": "Price\n(CBP/RBP/\nDBP/Cost)"
+            },
+            {
+                "product": "FORTUNE PREMIUM\nRICE @5KG",
+                "UOM": "CTN1/BAG",
+                "price_list": "73.900,00",
+                "DISC % REG": "",
+                "DISC % IOM": "",
+                "RBP DIST": "",
+                "Additional Disc % D 1": "",
+                "CUT PRICE OTB": "0,00"
+            }
+        ],
+        [
+            {
+                "product": "SKU",
+                "UOM": "SALES COMITMENT",
+                "price_list": null,
+                "DISC % REG": "TOTAL DISCOUNT",
+                "DISC % IOM": "TOTAL PRODUCT PROMO",
+                "RBP DIST": "TOTAL OTB",
+                "Additional Disc % D 1": "TOTAL PF",
+                "CUT PRICE OTB": "TOTAL EST BUDGET\nPROMO"
+            },
+            {
+                "product": null,
+                "UOM": "QTY IN CTN",
+                "price_list": "VALUE",
+                "DISC % REG": null,
+                "DISC % IOM": null,
+                "RBP DIST": null,
+                "Additional Disc % D 1": null,
+                "CUT PRICE OTB": null
+            },
+            {
+                "product": "FORTUNE PREMIUM\nRICE @5KG",
+                "UOM": "100/0",
+                "price_list": "7.135.784,00",
+                "DISC % REG": "254.300,00",
+                "DISC % IOM": "0,00",
+                "RBP DIST": "-",
+                "Additional Disc % D 1": "-",
+                "CUT PRICE OTB": "254.300,00"
+            }
+        ]
+    ]
+}
